@@ -24,8 +24,10 @@ class Subscription:
         pass
 
 class Media:
-    def __init__(self, primary_title, original_title, title_type, genres) -> None:
-        self.primary_title = primary_title
-        self.original_title = original_title
-        self.title_type = title_type
-        self.genres = genres
+    def __init__(self, data) -> None:
+        self.primary_title = ""
+        self.original_title = ""
+        self.title_type = "title_type"
+        self.genres = []
+        self.services = []
+
