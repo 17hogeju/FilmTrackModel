@@ -1,12 +1,11 @@
 import csv
 import json
 
-DATAPATH = './data/data.tsv'
-MEDIAPATH = './data/media.json'
+DATAPATH = './csv_data/data.tsv'
+MEDIAPATH = '../data/media.json'
 
 
-data = {}
-data["media"] = {}
+media = {}
 with open(DATAPATH, 'r', encoding="utf-8") as tsvf:
     tsvReader = csv.DictReader(tsvf, delimiter='\t')
 
@@ -37,7 +36,7 @@ with open(DATAPATH, 'r', encoding="utf-8") as tsvf:
             temp['genres'] = row['genres'].split(',')
         except:
             pass
-        data['media'][row['tconst']] = temp
+        media[row['tconst']] = temp
 
 with open(MEDIAPATH, 'w', encoding="utf-8") as jsonf:
-    json.dump(data, jsonf)
+    json.dump(media, jsonf)

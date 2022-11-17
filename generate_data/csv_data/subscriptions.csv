@@ -1,0 +1,14 @@
+subID,streaming_service,plan_name,plan_price
+100,Netflix,Basic with ads,699
+101,Netflix,Basic,999
+102,Netflix,Standard,1549
+103,Netflix,Premium,1999
+104,Hulu,With ads,799
+105,Hulu,No ads,1499
+106,Hulu,Student,199
+107,HBO Max,With ads,999
+108,HBO Max,No ads,1499
+109,Amazon Prime,Prime Video,899
+110,Amazon Prime,Prime Monthly,1499
+111,Amazon Prime,Prime Monthly Student,749
+112,Disney Plus,No Bundle,799
