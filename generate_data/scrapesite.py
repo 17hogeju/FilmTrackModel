@@ -1,12 +1,6 @@
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-import time
 import requests
 import json
-
-# session = HTMLSession()
 
 # url = 'https://www.rottentomatoes.com/browse/tv_series_browse/affiliates:hulu~sort:popular?page=5' # hulu shows
 # url = 'https://www.rottentomatoes.com/browse/tv_series_browse/affiliates:netflix~sort:popular?page=5' # netflix shows
@@ -18,8 +12,8 @@ import json
 
 # url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:netflix~sort:popular?page=5' # netflix movies
 # url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:hulu~sort:popular?page=5' # hulu movies
-url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:hbo_max~sort:popular?page=5' # hbo max movies
-# url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:disney_plus~sort:popular?page=5' # disney plus movies
+# url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:hbo_max~sort:popular?page=5' # hbo max movies
+url = 'https://www.rottentomatoes.com/browse/movies_at_home/affiliates:disney_plus~sort:popular?page=5' # disney plus movies
 
 
 def get_data(url):
@@ -39,5 +33,5 @@ for item in items:
     res.append(item['alt'])
 
 
-with open('../data/hbo_movies.json', 'w') as f:
+with open('../data/disney_movies.json', 'w') as f:
     json.dump(res, f)
