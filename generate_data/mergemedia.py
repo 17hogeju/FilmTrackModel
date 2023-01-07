@@ -38,3 +38,8 @@ with open(MEDIAPATH, 'w', encoding='utf-8') as jsonf:
 
 # TODO: Still need to remove duplicate year items like kindred on hulu that is a movie and tv show
 # need to get the year of the title and maybe use the id from imdb
+
+# probably use title basics data
+# find based off of primary title
+    # if mulitple results do manual 
+    # otherwise populate year and genres
