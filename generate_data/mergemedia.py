@@ -3,7 +3,7 @@ from pathlib import Path
 
 MEDIAPATH = '../data/media.json'
 
-directory = '../data'
+directory = '../title_data'
 files = Path(directory).glob("*")
 
 

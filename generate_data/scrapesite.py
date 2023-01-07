@@ -41,5 +41,5 @@ res = {
     "ttype": ttype,
     "titles": titles
 }
-with open(f'../data/{affiliate}_{ttype}.json', 'w') as f:
+with open(f'../title_data/{affiliate}_{ttype}.json', 'w') as f:
     json.dump(res, f)
