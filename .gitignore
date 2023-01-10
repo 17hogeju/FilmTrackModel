@@ -1,1 +1,2 @@
-./generate_data/csv_data/*
+generate_data/csv_data/
+.DS_Store
