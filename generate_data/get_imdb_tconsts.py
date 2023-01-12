@@ -18,6 +18,7 @@ with open(DATAPATH, 'r', encoding="utf-8") as tsvf:
         if row['titleType'] == 'movie' or row['titleType'] == 'tvSeries' or row['titleType'] == 'tvMiniSeries':
             if row['primaryTitle'].lower() in mylist:
                 res[row['primaryTitle'].lower()].append(row['tconst'])
+            # Could have an exception to find title mismatches here
 
     with open('./media_tconsts.json', 'w', encoding="utf-8") as jsonf:
         json.dump(res, jsonf)

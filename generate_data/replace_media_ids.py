@@ -12,6 +12,7 @@ res = {}
 for key in media:
     if not key[0] == 't':
         try:
+            # if title doesn't match, it will print so you can manually edit it
             newkey = sortedj[media[key]['title'].lower()][0][0]
             res[newkey] = media[key]
         except:
