@@ -1,65 +1,78 @@
 [
     {
+        "id": 100,
         "provider_id": 8,
         "plan_name": "Basic with ads",
         "plan_price": 699
     },
     {
+        "id": 101,
         "provider_id": 8,
         "plan_name": "Basic",
         "plan_price": 999
     },
     {
+        "id": 102,
         "provider_id": 8,
         "plan_name": "Standard",
         "plan_price": 1549
     },
     {
+        "id": 103,
         "provider_id": 8,
         "plan_name": "Premium",
         "plan_price": 1999
     },
     {
+        "id": 200,
         "provider_id": 15,
         "plan_name": "With ads",
         "plan_price": 799
     },
     {
+        "id": 201,
         "provider_id": 15,
         "plan_name": "No ads",
         "plan_price": 1499
     },
     {
+        "id": 202,
         "provider_id": 15,
         "plan_name": "Student",
         "plan_price": 199
     },
     {
+        "id": 300,
         "provider_id": 384,
         "plan_name": "With ads",
         "plan_price": 999
     },
     {
+        "id": 301,
         "provider_id": 384,
         "plan_name": "No ads",
         "plan_price": 1499
     },
     {
+        "id": 400,
         "provider_id": 9,
         "plan_name": "Prime Video",
         "plan_price": 899
     },
     {
+        "id": 401,
         "provider_id": 9,
         "plan_name": "Prime Monthly",
         "plan_price": 1499
     },
     {
+        "id": 402,
         "provider_id": 9,
         "plan_name": "Prime Monthly Student",
         "plan_price": 749
     },
     {
+        "id": 500,
         "provider_id": 337,
         "plan_name": "No Bundle",
         "plan_price": 799

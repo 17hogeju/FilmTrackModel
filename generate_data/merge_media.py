@@ -1,36 +1,13 @@
 import json
-from pathlib import Path
 
-MEDIAPATH = '../data/media.json'
+res = []
+with open('./data/movies.json') as movies:
+    for movie in json.load(movies):
+        res.append(movie)
 
-directory = '../title_data'
-files = Path(directory).glob("*")
+with open('./data/shows.json') as shows:
+    for show in json.load(shows):
+        res.append(show)
 
-
-# title for all media
-medialst = []
-media_temp = {}
-count = 0
-for file in files:
-    with open(file) as f:
-        data = json.load(f)
-
-    for title in data['titles']:
-        if title in media_temp:
-            media_temp[title]['platforms'].append(data["affiliate"])
-        else:
-            media_temp[title] = {
-                "ttype": data['ttype'],
-                "title": title,
-                "platforms": [data["affiliate"]]
-            }
-
-# create id for all media
-media = {}
-count = 0
-for key in media_temp:
-    media[f'{count:07}'] = media_temp[key]
-    count += 1
-
-with open(MEDIAPATH, 'w', encoding='utf-8') as jsonf:
-    json.dump(media, jsonf)
+with open('./data/media.json', 'w') as json_file:
+    json.dump(res, json_file)
