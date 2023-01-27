@@ -1,0 +1,27 @@
+[
+    {
+        "provider_name": "Netflix",
+        "provider_id": 8,
+        "logo_path": "/t2yyOv40HZeVlLjYsCsPHnWLk4W.jpg"
+    },
+    {
+        "provider_name": "Amazon Prime Video",
+        "provider_id": 9,
+        "logo_path": "/emthp39XA2YScoYL1p0sdbAH2WA.jpg"
+    },
+    {
+        "provider_name": "Hulu",
+        "provider_id": 15,
+        "logo_path": "/zxrVdFjIjLqkfnwyghnfywTn3Lh.jpg"
+    },
+    {
+        "provider_name": "Disney Plus",
+        "provider_id": 337,
+        "logo_path": "/7rwgEs15tFwyR9NPQ5vpzxTj19Q.jpg"
+    },
+    {
+        "provider_name": "HBO Max",
+        "provider_id": 384,
+        "logo_path": "/Ajqyt5aNxNGjmF9uOfxArGrdf3X.jpg"
+    }
+]

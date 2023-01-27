@@ -1,67 +1,67 @@
-{
-    "100": {
-        "streaming_service": "Netflix",
+[
+    {
+        "provider_id": 8,
         "plan_name": "Basic with ads",
         "plan_price": 699
     },
-    "101": {
-        "streaming_service": "Netflix",
+    {
+        "provider_id": 8,
         "plan_name": "Basic",
         "plan_price": 999
     },
-    "102": {
-        "streaming_service": "Netflix",
+    {
+        "provider_id": 8,
         "plan_name": "Standard",
         "plan_price": 1549
     },
-    "103": {
-        "streaming_service": "Netflix",
+    {
+        "provider_id": 8,
         "plan_name": "Premium",
         "plan_price": 1999
     },
-    "104": {
-        "streaming_service": "Hulu",
+    {
+        "provider_id": 15,
         "plan_name": "With ads",
         "plan_price": 799
     },
-    "105": {
-        "streaming_service": "Hulu",
+    {
+        "provider_id": 15,
         "plan_name": "No ads",
         "plan_price": 1499
     },
-    "106": {
-        "streaming_service": "Hulu",
+    {
+        "provider_id": 15,
         "plan_name": "Student",
         "plan_price": 199
     },
-    "107": {
-        "streaming_service": "HBO Max",
+    {
+        "provider_id": 384,
         "plan_name": "With ads",
         "plan_price": 999
     },
-    "108": {
-        "streaming_service": "HBO Max",
+    {
+        "provider_id": 384,
         "plan_name": "No ads",
         "plan_price": 1499
     },
-    "109": {
-        "streaming_service": "Amazon Prime",
+    {
+        "provider_id": 9,
         "plan_name": "Prime Video",
         "plan_price": 899
     },
-    "110": {
-        "streaming_service": "Amazon Prime",
+    {
+        "provider_id": 9,
         "plan_name": "Prime Monthly",
         "plan_price": 1499
     },
-    "111": {
-        "streaming_service": "Amazon Prime",
+    {
+        "provider_id": 9,
         "plan_name": "Prime Monthly Student",
         "plan_price": 749
     },
-    "112": {
-        "streaming_service": "Disney Plus",
+    {
+        "provider_id": 337,
         "plan_name": "No Bundle",
         "plan_price": 799
     }
-}
+]
