@@ -1,10 +1,3 @@
-
-# "job": "Director"
-# "department": "Writing"
-
-# anything with "cast_id"  sort by popularity
-
-
 import config # to hide TMDB API keys
 import requests # to make TMDB API calls
 import locale # to format currency as USD
