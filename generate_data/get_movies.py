@@ -23,17 +23,17 @@ for page in range(1,51):
             valid_providers = ids.intersection(our_providers)
             if valid_providers:
                 res.append({
-                    'id': media['id'],
-                    'overview': media['overview'],
-                    'genre_ids': media['genre_ids'],
-                    'poster_path': media['poster_path'],
-                    'provider_ids': list(valid_providers),
-                    'media_type': 'movie',
-                    'title': media['title'], # movie only
-                    'original_title': media['original_title'], # movie only
-                    'release_date': media['release_date'], # movie only
-                    'adult': media['adult'] # movie only
-                })
+                    media['id']: {
+                        'overview': media['overview'],
+                        'genre_ids': media['genre_ids'],
+                        'poster_path': media['poster_path'],
+                        'provider_ids': list(valid_providers),
+                        'media_type': 'movie',
+                        'title': media['title'], # movie only
+                        'original_title': media['original_title'], # movie only
+                        'release_date': media['release_date'], # movie only
+                        'adult': media['adult'] # movie only
+                    }})
         except: 
             continue
 

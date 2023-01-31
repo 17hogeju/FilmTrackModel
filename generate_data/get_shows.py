@@ -23,16 +23,16 @@ for page in range(1,51):
             valid_providers = ids.intersection(our_providers)
             if valid_providers:
                 res.append({
-                    'id': media['id'],
-                    'overview': media['overview'],
-                    'genre_ids': media['genre_ids'],
-                    'poster_path': media['poster_path'],
-                    'provider_ids': list(valid_providers),
-                    'media_type': 'tv',
-                    'name': media['name'], # tv only
-                    'original_name': media['original_name'], # tv only
-                    'first_air_date': media['first_air_date'] # tv only
-                })
+                    media['id']: {
+                        'overview': media['overview'],
+                        'genre_ids': media['genre_ids'],
+                        'poster_path': media['poster_path'],
+                        'provider_ids': list(valid_providers),
+                        'media_type': 'tv',
+                        'name': media['name'], # tv only
+                        'original_name': media['original_name'], # tv only
+                        'first_air_date': media['first_air_date'] # tv only
+                    }})
         except: 
             continue
 

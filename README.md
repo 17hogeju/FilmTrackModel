@@ -8,6 +8,8 @@
 
 [Merge Media](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/merge_media.py): Merges the shows.json and movies.json
 
+[Get People](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/get_people.py): Gets cast and crew for all media
+
 ---
 
 [Set Media](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/set_media.py): Uploads media.json to film-track Firestore media collection
@@ -15,5 +17,7 @@
 [Set Providers](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/set_providers.py): Uploads providers.json to film-track Firestore providers collection
 
 [Set Media](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/set_subscriptions.py): Uploads subscriptions.json to film-track Firestore subscriptions collection
+
+[Set People](https://github.com/17hogeju/FilmTrackModel/blob/julia-dev/generate_data/set_people.py): Uploads people.json to film-track Firestore people collection
 
 # Model Tests Folder
