@@ -11,6 +11,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Inception",
         "original_title": "Inception",
         "release_date": "2010-07-15",
@@ -30,6 +31,7 @@
             384,
             15
         ],
+        "media_type": "movie",
         "title": "The Dark Knight",
         "original_title": "The Dark Knight",
         "release_date": "2008-07-14",
@@ -47,6 +49,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Avengers",
         "original_title": "The Avengers",
         "release_date": "2012-04-25",
@@ -65,6 +68,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Avatar",
         "original_title": "Avatar",
         "release_date": "2009-12-15",
@@ -82,6 +86,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Deadpool",
         "original_title": "Deadpool",
         "release_date": "2016-02-09",
@@ -99,6 +104,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Avengers: Infinity War",
         "original_title": "Avengers: Infinity War",
         "release_date": "2018-04-25",
@@ -116,6 +122,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Guardians of the Galaxy",
         "original_title": "Guardians of the Galaxy",
         "release_date": "2014-07-30",
@@ -133,6 +140,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Forrest Gump",
         "original_title": "Forrest Gump",
         "release_date": "1994-06-23",
@@ -149,6 +157,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Philosopher's Stone",
         "original_title": "Harry Potter and the Philosopher's Stone",
         "release_date": "2001-11-16",
@@ -166,6 +175,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Iron Man",
         "original_title": "Iron Man",
         "release_date": "2008-04-30",
@@ -182,6 +192,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Matrix",
         "original_title": "The Matrix",
         "release_date": "1999-03-30",
@@ -199,6 +210,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Avengers: Endgame",
         "original_title": "Avengers: Endgame",
         "release_date": "2019-04-24",
@@ -217,6 +229,7 @@
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Lord of the Rings: The Fellowship of the Ring",
         "original_title": "The Lord of the Rings: The Fellowship of the Ring",
         "release_date": "2001-12-18",
@@ -234,6 +247,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Joker",
         "original_title": "Joker",
         "release_date": "2019-10-01",
@@ -251,6 +265,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Shutter Island",
         "original_title": "Shutter Island",
         "release_date": "2010-02-14",
@@ -269,6 +284,7 @@
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Lord of the Rings: The Return of the King",
         "original_title": "The Lord of the Rings: The Return of the King",
         "release_date": "2003-12-01",
@@ -286,6 +302,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Wolf of Wall Street",
         "original_title": "The Wolf of Wall Street",
         "release_date": "2013-12-25",
@@ -303,6 +320,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Avengers: Age of Ultron",
         "original_title": "Avengers: Age of Ultron",
         "release_date": "2015-04-22",
@@ -320,6 +338,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Captain America: Civil War",
         "original_title": "Captain America: Civil War",
         "release_date": "2016-04-27",
@@ -339,6 +358,7 @@
             384,
             15
         ],
+        "media_type": "movie",
         "title": "The Dark Knight Rises",
         "original_title": "The Dark Knight Rises",
         "release_date": "2012-07-16",
@@ -356,6 +376,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Iron Man 3",
         "original_title": "Iron Man 3",
         "release_date": "2013-04-18",
@@ -373,6 +394,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Black Panther",
         "original_title": "Black Panther",
         "release_date": "2018-02-13",
@@ -390,6 +412,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Doctor Strange",
         "original_title": "Doctor Strange",
         "release_date": "2016-10-25",
@@ -407,6 +430,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Hunger Games",
         "original_title": "The Hunger Games",
         "release_date": "2012-03-12",
@@ -424,6 +448,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Suicide Squad",
         "original_title": "Suicide Squad",
         "release_date": "2016-08-03",
@@ -441,6 +466,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Captain America: The First Avenger",
         "original_title": "Captain America: The First Avenger",
         "release_date": "2011-07-22",
@@ -457,6 +483,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Chamber of Secrets",
         "original_title": "Harry Potter and the Chamber of Secrets",
         "release_date": "2002-11-13",
@@ -475,6 +502,7 @@
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Lord of the Rings: The Two Towers",
         "original_title": "The Lord of the Rings: The Two Towers",
         "release_date": "2002-12-18",
@@ -492,6 +520,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Thor",
         "original_title": "Thor",
         "release_date": "2011-04-21",
@@ -509,6 +538,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Guardians of the Galaxy Vol. 2",
         "original_title": "Guardians of the Galaxy Vol. 2",
         "release_date": "2017-04-19",
@@ -525,6 +555,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Prisoner of Azkaban",
         "original_title": "Harry Potter and the Prisoner of Azkaban",
         "release_date": "2004-05-31",
@@ -542,9 +573,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Iron Man 2",
         "original_title": "Iron Man 2",
-        "release_date": "2010-05-07",
+        "release_date": "2010-04-28",
         "adult": false
     },
     {
@@ -561,6 +593,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Thor: Ragnarok",
         "original_title": "Thor: Ragnarok",
         "release_date": "2017-10-24",
@@ -579,6 +612,7 @@
             384,
             15
         ],
+        "media_type": "movie",
         "title": "Batman Begins",
         "original_title": "Batman Begins",
         "release_date": "2005-06-10",
@@ -598,6 +632,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Inside Out",
         "original_title": "Inside Out",
         "release_date": "2015-06-09",
@@ -615,6 +650,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
         "release_date": "2003-07-09",
@@ -632,6 +668,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Wonder Woman",
         "original_title": "Wonder Woman",
         "release_date": "2017-05-30",
@@ -649,6 +686,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Goblet of Fire",
         "original_title": "Harry Potter and the Goblet of Fire",
         "release_date": "2005-11-16",
@@ -665,6 +703,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Deathly Hallows: Part 2",
         "original_title": "Harry Potter and the Deathly Hallows: Part 2",
         "release_date": "2011-07-07",
@@ -682,6 +721,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars",
         "original_title": "Star Wars",
         "release_date": "1977-05-25",
@@ -700,6 +740,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Up",
         "original_title": "Up",
         "release_date": "2009-05-28",
@@ -717,6 +758,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ant-Man",
         "original_title": "Ant-Man",
         "release_date": "2015-07-14",
@@ -735,6 +777,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: The Force Awakens",
         "original_title": "Star Wars: The Force Awakens",
         "release_date": "2015-12-15",
@@ -752,6 +795,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Logan",
         "original_title": "Logan",
         "release_date": "2017-02-28",
@@ -769,6 +813,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Fantastic Beasts and Where to Find Them",
         "original_title": "Fantastic Beasts and Where to Find Them",
         "release_date": "2016-11-16",
@@ -785,6 +830,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Finding Nemo",
         "original_title": "Finding Nemo",
         "release_date": "2003-05-30",
@@ -802,6 +848,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Order of the Phoenix",
         "original_title": "Harry Potter and the Order of the Phoenix",
         "release_date": "2007-06-28",
@@ -818,6 +865,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Half-Blood Prince",
         "original_title": "Harry Potter and the Half-Blood Prince",
         "release_date": "2009-07-07",
@@ -835,6 +883,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Captain America: The Winter Soldier",
         "original_title": "Captain America: The Winter Soldier",
         "release_date": "2014-03-20",
@@ -851,6 +900,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Harry Potter and the Deathly Hallows: Part 1",
         "original_title": "Harry Potter and the Deathly Hallows: Part 1",
         "release_date": "2010-10-06",
@@ -871,6 +921,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Coco",
         "original_title": "Coco",
         "release_date": "2017-10-27",
@@ -889,6 +940,7 @@
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Hobbit: An Unexpected Journey",
         "original_title": "The Hobbit: An Unexpected Journey",
         "release_date": "2012-11-26",
@@ -906,6 +958,7 @@
             8,
             15
         ],
+        "media_type": "movie",
         "title": "Spider-Man",
         "original_title": "Spider-Man",
         "release_date": "2002-05-01",
@@ -923,6 +976,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "WALL\u00b7E",
         "original_title": "WALL\u00b7E",
         "release_date": "2008-06-22",
@@ -940,6 +994,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Gone Girl",
         "original_title": "Gone Girl",
         "release_date": "2014-10-01",
@@ -956,6 +1011,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "John Wick",
         "original_title": "John Wick",
         "release_date": "2014-10-22",
@@ -973,6 +1029,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Batman v Superman: Dawn of Justice",
         "original_title": "Batman v Superman: Dawn of Justice",
         "release_date": "2016-03-23",
@@ -990,6 +1047,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Monsters, Inc.",
         "original_title": "Monsters, Inc.",
         "release_date": "2001-11-01",
@@ -1008,6 +1066,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Toy Story",
         "original_title": "Toy Story",
         "release_date": "1995-10-30",
@@ -1025,6 +1084,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Lion King",
         "original_title": "The Lion King",
         "release_date": "1994-06-23",
@@ -1043,6 +1103,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Incredibles",
         "original_title": "The Incredibles",
         "release_date": "2004-10-27",
@@ -1060,6 +1121,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Thor: The Dark World",
         "original_title": "Thor: The Dark World",
         "release_date": "2013-10-30",
@@ -1077,6 +1139,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Hunger Games: Catching Fire",
         "original_title": "The Hunger Games: Catching Fire",
         "release_date": "2013-11-15",
@@ -1094,6 +1157,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Deadpool 2",
         "original_title": "Deadpool 2",
         "release_date": "2018-05-10",
@@ -1112,6 +1176,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Imitation Game",
         "original_title": "The Imitation Game",
         "release_date": "2014-11-14",
@@ -1130,6 +1195,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Maze Runner",
         "original_title": "The Maze Runner",
         "release_date": "2014-09-10",
@@ -1147,6 +1213,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Parasite",
         "original_title": "\uae30\uc0dd\ucda9",
         "release_date": "2019-05-30",
@@ -1162,6 +1229,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Hangover",
         "original_title": "The Hangover",
         "release_date": "2009-06-02",
@@ -1179,6 +1247,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Empire Strikes Back",
         "original_title": "The Empire Strikes Back",
         "release_date": "1980-05-20",
@@ -1197,6 +1266,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Frozen",
         "original_title": "Frozen",
         "release_date": "2013-11-20",
@@ -1215,6 +1285,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "La La Land",
         "original_title": "La La Land",
         "release_date": "2016-11-29",
@@ -1233,6 +1304,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ratatouille",
         "original_title": "Ratatouille",
         "release_date": "2007-06-28",
@@ -1250,6 +1322,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Dunkirk",
         "original_title": "Dunkirk",
         "release_date": "2017-07-19",
@@ -1268,6 +1341,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Zootopia",
         "original_title": "Zootopia",
         "release_date": "2016-02-11",
@@ -1285,6 +1359,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Beauty and the Beast",
         "original_title": "Beauty and the Beast",
         "release_date": "2017-03-16",
@@ -1301,6 +1376,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Jurassic Park",
         "original_title": "Jurassic Park",
         "release_date": "1993-06-11",
@@ -1318,6 +1394,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pirates of the Caribbean: Dead Man's Chest",
         "original_title": "Pirates of the Caribbean: Dead Man's Chest",
         "release_date": "2006-07-06",
@@ -1337,6 +1414,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Big Hero 6",
         "original_title": "Big Hero 6",
         "release_date": "2014-10-24",
@@ -1354,6 +1432,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Skyfall",
         "original_title": "Skyfall",
         "release_date": "2012-10-24",
@@ -1371,6 +1450,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Gravity",
         "original_title": "Gravity",
         "release_date": "2013-10-03",
@@ -1388,6 +1468,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "X-Men: Days of Future Past",
         "original_title": "X-Men: Days of Future Past",
         "release_date": "2014-05-15",
@@ -1405,6 +1486,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Captain Marvel",
         "original_title": "Captain Marvel",
         "release_date": "2019-03-06",
@@ -1422,6 +1504,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Spirited Away",
         "original_title": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
         "release_date": "2002-09-20",
@@ -1439,6 +1522,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Prestige",
         "original_title": "The Prestige",
         "release_date": "2006-10-19",
@@ -1456,26 +1540,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Return of the Jedi",
         "original_title": "Return of the Jedi",
         "release_date": "1983-05-25",
-        "adult": false
-    },
-    {
-        "id": 330459,
-        "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
-        "genre_ids": [
-            28,
-            12,
-            878
-        ],
-        "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "Rogue One: A Star Wars Story",
-        "original_title": "Rogue One: A Star Wars Story",
-        "release_date": "2016-12-14",
         "adult": false
     },
     {
@@ -1492,9 +1560,28 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "World War Z",
         "original_title": "World War Z",
         "release_date": "2013-06-20",
+        "adult": false
+    },
+    {
+        "id": 330459,
+        "overview": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "Rogue One: A Star Wars Story",
+        "original_title": "Rogue One: A Star Wars Story",
+        "release_date": "2016-12-14",
         "adult": false
     },
     {
@@ -1509,6 +1596,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Man of Steel",
         "original_title": "Man of Steel",
         "release_date": "2013-06-12",
@@ -1527,6 +1615,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Despicable Me",
         "original_title": "Despicable Me",
         "release_date": "2010-07-08",
@@ -1544,6 +1633,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: The Last Jedi",
         "original_title": "Star Wars: The Last Jedi",
         "release_date": "2017-12-13",
@@ -1562,6 +1652,7 @@
             8,
             15
         ],
+        "media_type": "movie",
         "title": "Spider-Man 2",
         "original_title": "Spider-Man 2",
         "release_date": "2004-06-25",
@@ -1575,10 +1666,11 @@
             10751,
             35
         ],
-        "poster_path": "/qmTBHxX5bGvlCuPjMuK18mYbxu1.jpg",
+        "poster_path": "/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg",
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Toy Story 3",
         "original_title": "Toy Story 3",
         "release_date": "2010-06-16",
@@ -1595,6 +1687,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Grand Budapest Hotel",
         "original_title": "The Grand Budapest Hotel",
         "release_date": "2014-02-26",
@@ -1612,6 +1705,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Eternal Sunshine of the Spotless Mind",
         "original_title": "Eternal Sunshine of the Spotless Mind",
         "release_date": "2004-03-19",
@@ -1628,6 +1722,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Memento",
         "original_title": "Memento",
         "release_date": "2000-10-11",
@@ -1645,6 +1740,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: Episode I - The Phantom Menace",
         "original_title": "Star Wars: Episode I - The Phantom Menace",
         "release_date": "1999-05-19",
@@ -1662,6 +1758,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pirates of the Caribbean: At World's End",
         "original_title": "Pirates of the Caribbean: At World's End",
         "release_date": "2007-05-19",
@@ -1679,6 +1776,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Alice in Wonderland",
         "original_title": "Alice in Wonderland",
         "release_date": "2010-03-03",
@@ -1697,6 +1795,7 @@
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Hobbit: The Battle of the Five Armies",
         "original_title": "The Hobbit: The Battle of the Five Armies",
         "release_date": "2014-12-10",
@@ -1713,6 +1812,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Reservoir Dogs",
         "original_title": "Reservoir Dogs",
         "release_date": "1992-09-02",
@@ -1730,6 +1830,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pirates of the Caribbean: On Stranger Tides",
         "original_title": "Pirates of the Caribbean: On Stranger Tides",
         "release_date": "2011-05-14",
@@ -1748,6 +1849,7 @@
             8,
             15
         ],
+        "media_type": "movie",
         "title": "Spider-Man 3",
         "original_title": "Spider-Man 3",
         "release_date": "2007-05-01",
@@ -1765,6 +1867,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Aquaman",
         "original_title": "Aquaman",
         "release_date": "2018-12-07",
@@ -1782,6 +1885,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Toy Story 2",
         "original_title": "Toy Story 2",
         "release_date": "1999-10-30",
@@ -1800,6 +1904,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Cars",
         "original_title": "Cars",
         "release_date": "2006-06-08",
@@ -1817,6 +1922,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: Episode III - Revenge of the Sith",
         "original_title": "Star Wars: Episode III - Revenge of the Sith",
         "release_date": "2005-05-17",
@@ -1837,6 +1943,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Brave",
         "original_title": "Brave",
         "release_date": "2012-06-21",
@@ -1853,25 +1960,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Life of Pi",
         "original_title": "Life of Pi",
         "release_date": "2012-11-20",
-        "adult": false
-    },
-    {
-        "id": 264660,
-        "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
-        "genre_ids": [
-            18,
-            878
-        ],
-        "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Ex Machina",
-        "original_title": "Ex Machina",
-        "release_date": "2015-01-21",
         "adult": false
     },
     {
@@ -1886,9 +1978,27 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Hacksaw Ridge",
         "original_title": "Hacksaw Ridge",
         "release_date": "2016-10-07",
+        "adult": false
+    },
+    {
+        "id": 264660,
+        "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+        "genre_ids": [
+            18,
+            878
+        ],
+        "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Ex Machina",
+        "original_title": "Ex Machina",
+        "release_date": "2015-01-21",
         "adult": false
     },
     {
@@ -1903,6 +2013,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Justice League",
         "original_title": "Justice League",
         "release_date": "2017-11-15",
@@ -1920,6 +2031,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ant-Man and the Wasp",
         "original_title": "Ant-Man and the Wasp",
         "release_date": "2018-07-04",
@@ -1934,10 +2046,11 @@
             878,
             14
         ],
-        "poster_path": "/fVmMiVyYlDo6Cp6Grc8STbLcADo.jpg",
+        "poster_path": "/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg",
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "X-Men: Apocalypse",
         "original_title": "X-Men: Apocalypse",
         "release_date": "2016-05-18",
@@ -1955,6 +2068,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Divergent",
         "original_title": "Divergent",
         "release_date": "2014-03-14",
@@ -1973,6 +2087,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ice Age",
         "original_title": "Ice Age",
         "release_date": "2002-03-10",
@@ -1990,6 +2105,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: Episode II - Attack of the Clones",
         "original_title": "Star Wars: Episode II - Attack of the Clones",
         "release_date": "2002-05-15",
@@ -2003,11 +2119,12 @@
             12,
             28
         ],
-        "poster_path": "/70Ux6sHFIqu0bVFp8xzBZCOQFXM.jpg",
+        "poster_path": "/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg",
         "provider_ids": [
             384,
             9
         ],
+        "media_type": "movie",
         "title": "The Hobbit: The Desolation of Smaug",
         "original_title": "The Hobbit: The Desolation of Smaug",
         "release_date": "2013-12-11",
@@ -2025,6 +2142,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Edward Scissorhands",
         "original_title": "Edward Scissorhands",
         "release_date": "1990-12-05",
@@ -2043,6 +2161,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Incredibles 2",
         "original_title": "Incredibles 2",
         "release_date": "2018-06-14",
@@ -2059,6 +2178,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Blade Runner 2049",
         "original_title": "Blade Runner 2049",
         "release_date": "2017-10-04",
@@ -2075,6 +2195,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "A Clockwork Orange",
         "original_title": "A Clockwork Orange",
         "release_date": "1971-12-19",
@@ -2093,6 +2214,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Wreck-It Ralph",
         "original_title": "Wreck-It Ralph",
         "release_date": "2012-11-01",
@@ -2110,6 +2232,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Pacific Rim",
         "original_title": "Pacific Rim",
         "release_date": "2013-07-11",
@@ -2127,6 +2250,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Hunger Games: Mockingjay - Part 2",
         "original_title": "The Hunger Games: Mockingjay - Part 2",
         "release_date": "2015-11-18",
@@ -2144,6 +2268,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Terminator 2: Judgment Day",
         "original_title": "Terminator 2: Judgment Day",
         "release_date": "1991-07-03",
@@ -2162,6 +2287,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Finding Dory",
         "original_title": "Finding Dory",
         "release_date": "2016-06-16",
@@ -2179,6 +2305,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Donnie Darko",
         "original_title": "Donnie Darko",
         "release_date": "2001-10-24",
@@ -2197,6 +2324,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Moana",
         "original_title": "Moana",
         "release_date": "2016-10-13",
@@ -2213,6 +2341,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Zombieland",
         "original_title": "Zombieland",
         "release_date": "2009-10-07",
@@ -2230,6 +2359,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "John Wick: Chapter 2",
         "original_title": "John Wick: Chapter 2",
         "release_date": "2017-02-08",
@@ -2247,6 +2377,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Prometheus",
         "original_title": "Prometheus",
         "release_date": "2012-05-30",
@@ -2264,6 +2395,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
         "original_title": "Pirates of the Caribbean: Dead Men Tell No Tales",
         "release_date": "2017-05-23",
@@ -2280,6 +2412,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Raiders of the Lost Ark",
         "original_title": "Raiders of the Lost Ark",
         "release_date": "1981-06-12",
@@ -2296,6 +2429,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Kick-Ass",
         "original_title": "Kick-Ass",
         "release_date": "2010-03-22",
@@ -2312,6 +2446,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "I, Robot",
         "original_title": "I, Robot",
         "release_date": "2004-07-15",
@@ -2329,6 +2464,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Incredible Hulk",
         "original_title": "The Incredible Hulk",
         "release_date": "2008-06-12",
@@ -2346,6 +2482,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "No Country for Old Men",
         "original_title": "No Country for Old Men",
         "release_date": "2007-06-13",
@@ -2362,6 +2499,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Fault in Our Stars",
         "original_title": "The Fault in Our Stars",
         "release_date": "2014-05-16",
@@ -2378,6 +2516,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "12 Years a Slave",
         "original_title": "12 Years a Slave",
         "release_date": "2013-10-18",
@@ -2395,6 +2534,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Despicable Me 2",
         "original_title": "Despicable Me 2",
         "release_date": "2013-06-26",
@@ -2410,6 +2550,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "American History X",
         "original_title": "American History X",
         "release_date": "1998-07-01",
@@ -2429,6 +2570,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Aladdin",
         "original_title": "Aladdin",
         "release_date": "1992-11-25",
@@ -2445,25 +2587,10 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Conjuring",
         "original_title": "The Conjuring",
         "release_date": "2013-07-18",
-        "adult": false
-    },
-    {
-        "id": 8358,
-        "overview": "Chuck Nolan, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
-        "genre_ids": [
-            12,
-            18
-        ],
-        "poster_path": "/6Zp6oj4QxpYFFvrVtb4kGc7r0jK.jpg",
-        "provider_ids": [
-            15
-        ],
-        "title": "Cast Away",
-        "original_title": "Cast Away",
-        "release_date": "2000-12-22",
         "adult": false
     },
     {
@@ -2478,9 +2605,27 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Prisoners",
         "original_title": "Prisoners",
         "release_date": "2013-09-18",
+        "adult": false
+    },
+    {
+        "id": 8358,
+        "overview": "Chuck Nolan, a top international manager for FedEx, and Kelly, a Ph.D. student, are in love and heading towards marriage. Then Chuck's plane to Malaysia crashes at sea during a terrible storm. He's the only survivor, and finds himself marooned on a desolate island. With no way to escape, Chuck must find ways to survive in his new home.",
+        "genre_ids": [
+            12,
+            18
+        ],
+        "poster_path": "/6Zp6oj4QxpYFFvrVtb4kGc7r0jK.jpg",
+        "provider_ids": [
+            15
+        ],
+        "media_type": "movie",
+        "title": "Cast Away",
+        "original_title": "Cast Away",
+        "release_date": "2000-12-22",
         "adult": false
     },
     {
@@ -2494,6 +2639,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Tangled",
         "original_title": "Tangled",
         "release_date": "2010-11-24",
@@ -2513,6 +2659,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Kung Fu Panda",
         "original_title": "Kung Fu Panda",
         "release_date": "2008-06-04",
@@ -2530,6 +2677,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "2001: A Space Odyssey",
         "original_title": "2001: A Space Odyssey",
         "release_date": "1968-04-02",
@@ -2547,6 +2695,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Fantastic Beasts: The Crimes of Grindelwald",
         "original_title": "Fantastic Beasts: The Crimes of Grindelwald",
         "release_date": "2018-11-14",
@@ -2565,6 +2714,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Oblivion",
         "original_title": "Oblivion",
         "release_date": "2013-04-10",
@@ -2582,6 +2732,7 @@
             337,
             15
         ],
+        "media_type": "movie",
         "title": "Home Alone",
         "original_title": "Home Alone",
         "release_date": "1990-11-16",
@@ -2600,6 +2751,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Matrix Reloaded",
         "original_title": "The Matrix Reloaded",
         "release_date": "2003-05-15",
@@ -2616,6 +2768,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Bruce Almighty",
         "original_title": "Bruce Almighty",
         "release_date": "2003-05-23",
@@ -2633,6 +2786,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Nightcrawler",
         "original_title": "Nightcrawler",
         "release_date": "2014-10-23",
@@ -2649,6 +2803,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Monsters University",
         "original_title": "Monsters University",
         "release_date": "2013-06-19",
@@ -2666,6 +2821,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Limitless",
         "original_title": "Limitless",
         "release_date": "2011-03-08",
@@ -2682,6 +2838,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Slumdog Millionaire",
         "original_title": "Slumdog Millionaire",
         "release_date": "2008-11-12",
@@ -2697,6 +2854,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Perks of Being a Wallflower",
         "original_title": "The Perks of Being a Wallflower",
         "release_date": "2012-09-20",
@@ -2712,6 +2870,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Hangover Part II",
         "original_title": "The Hangover Part II",
         "release_date": "2011-05-25",
@@ -2729,6 +2888,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "21 Jump Street",
         "original_title": "21 Jump Street",
         "release_date": "2012-03-14",
@@ -2746,6 +2906,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
         "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
         "release_date": "2005-12-07",
@@ -2764,6 +2925,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Insurgent",
         "original_title": "Insurgent",
         "release_date": "2015-03-18",
@@ -2780,6 +2942,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
         "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
         "release_date": "2020-02-05",
@@ -2799,6 +2962,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Night at the Museum",
         "original_title": "Night at the Museum",
         "release_date": "2006-12-20",
@@ -2817,6 +2981,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Aladdin",
         "original_title": "Aladdin",
         "release_date": "2019-05-22",
@@ -2834,6 +2999,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "X2",
         "original_title": "X2",
         "release_date": "2003-04-27",
@@ -2852,6 +3018,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Troy",
         "original_title": "Troy",
         "release_date": "2004-05-03",
@@ -2869,6 +3036,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "American Psycho",
         "original_title": "American Psycho",
         "release_date": "2000-04-13",
@@ -2886,6 +3054,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Lion King",
         "original_title": "The Lion King",
         "release_date": "2019-07-12",
@@ -2903,6 +3072,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "(500) Days of Summer",
         "original_title": "(500) Days of Summer",
         "release_date": "2009-07-17",
@@ -2921,6 +3091,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Braveheart",
         "original_title": "Braveheart",
         "release_date": "1995-03-14",
@@ -2939,6 +3110,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Beauty and the Beast",
         "original_title": "Beauty and the Beast",
         "release_date": "1991-10-22",
@@ -2958,6 +3130,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Soul",
         "original_title": "Soul",
         "release_date": "2020-12-25",
@@ -2975,6 +3148,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Bird Box",
         "original_title": "Bird Box",
         "release_date": "2018-12-13",
@@ -2993,6 +3167,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ice Age: The Meltdown",
         "original_title": "Ice Age: The Meltdown",
         "release_date": "2006-03-29",
@@ -3010,6 +3185,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Mission: Impossible - Ghost Protocol",
         "original_title": "Mission: Impossible - Ghost Protocol",
         "release_date": "2011-12-07",
@@ -3029,25 +3205,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Frozen II",
         "original_title": "Frozen II",
         "release_date": "2019-11-20",
-        "adult": false
-    },
-    {
-        "id": 89,
-        "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
-        "genre_ids": [
-            12,
-            28
-        ],
-        "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
-        "provider_ids": [
-            9
-        ],
-        "title": "Indiana Jones and the Last Crusade",
-        "original_title": "Indiana Jones and the Last Crusade",
-        "release_date": "1989-05-24",
         "adult": false
     },
     {
@@ -3063,27 +3224,27 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Matrix Revolutions",
         "original_title": "The Matrix Revolutions",
         "release_date": "2003-11-05",
         "adult": false
     },
     {
-        "id": 36668,
-        "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men\u2014led by Professor Charles Xavier\u2014and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+        "id": 89,
+        "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
         "genre_ids": [
             12,
-            28,
-            878,
-            53
+            28
         ],
-        "poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
+        "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
         "provider_ids": [
-            337
+            9
         ],
-        "title": "X-Men: The Last Stand",
-        "original_title": "X-Men: The Last Stand",
-        "release_date": "2006-05-24",
+        "media_type": "movie",
+        "title": "Indiana Jones and the Last Crusade",
+        "original_title": "Indiana Jones and the Last Crusade",
+        "release_date": "1989-05-24",
         "adult": false
     },
     {
@@ -3099,9 +3260,29 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Wolverine",
         "original_title": "The Wolverine",
         "release_date": "2013-07-23",
+        "adult": false
+    },
+    {
+        "id": 36668,
+        "overview": "When a cure is found to treat mutations, lines are drawn amongst the X-Men\u2014led by Professor Charles Xavier\u2014and the Brotherhood, a band of powerful mutants organised under Xavier's former ally, Magneto.",
+        "genre_ids": [
+            12,
+            28,
+            878,
+            53
+        ],
+        "poster_path": "/7RSSkRpwvkNN5iKO8zACtBA0KhQ.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "X-Men: The Last Stand",
+        "original_title": "X-Men: The Last Stand",
+        "release_date": "2006-05-24",
         "adult": false
     },
     {
@@ -3116,6 +3297,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Black Widow",
         "original_title": "Black Widow",
         "release_date": "2021-07-07",
@@ -3135,6 +3317,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Toy Story 4",
         "original_title": "Toy Story 4",
         "release_date": "2019-06-19",
@@ -3152,6 +3335,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "John Wick: Chapter 3 - Parabellum",
         "original_title": "John Wick: Chapter 3 - Parabellum",
         "release_date": "2019-05-15",
@@ -3170,6 +3354,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Zack Snyder's Justice League",
         "original_title": "Zack Snyder's Justice League",
         "release_date": "2021-03-18",
@@ -3185,6 +3370,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Greatest Showman",
         "original_title": "The Greatest Showman",
         "release_date": "2017-12-20",
@@ -3202,6 +3388,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Mulan",
         "original_title": "Mulan",
         "release_date": "1998-06-18",
@@ -3219,6 +3406,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Star Wars: The Rise of Skywalker",
         "original_title": "Star Wars: The Rise of Skywalker",
         "release_date": "2019-12-18",
@@ -3237,6 +3425,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Fantastic Four",
         "original_title": "Fantastic Four",
         "release_date": "2005-06-29",
@@ -3253,6 +3442,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Hidden Figures",
         "original_title": "Hidden Figures",
         "release_date": "2016-12-10",
@@ -3269,6 +3459,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Room",
         "original_title": "Room",
         "release_date": "2015-10-16",
@@ -3284,6 +3475,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "District 9",
         "original_title": "District 9",
         "release_date": "2009-08-05",
@@ -3301,9 +3493,27 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Star Trek Into Darkness",
         "original_title": "Star Trek Into Darkness",
         "release_date": "2013-05-05",
+        "adult": false
+    },
+    {
+        "id": 591,
+        "overview": "A murder in Paris\u2019 Louvre Museum and cryptic clues in some of Leonardo da Vinci\u2019s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that \u2014 should it come to light \u2014 could rock the very foundations of Christianity.",
+        "genre_ids": [
+            53,
+            9648
+        ],
+        "poster_path": "/j9lsWwnIDN2ZNtqZcE1x2o4ZKyI.jpg",
+        "provider_ids": [
+            15
+        ],
+        "media_type": "movie",
+        "title": "The Da Vinci Code",
+        "original_title": "The Da Vinci Code",
+        "release_date": "2006-05-17",
         "adult": false
     },
     {
@@ -3319,25 +3529,10 @@
             337,
             15
         ],
+        "media_type": "movie",
         "title": "Home Alone 2: Lost in New York",
         "original_title": "Home Alone 2: Lost in New York",
         "release_date": "1992-11-19",
-        "adult": false
-    },
-    {
-        "id": 591,
-        "overview": "A murder in Paris\u2019 Louvre Museum and cryptic clues in some of Leonardo da Vinci\u2019s most famous paintings lead to the discovery of a religious mystery. For 2,000 years a secret society closely guards information that \u2014 should it come to light \u2014 could rock the very foundations of Christianity.",
-        "genre_ids": [
-            53,
-            9648
-        ],
-        "poster_path": "/j9lsWwnIDN2ZNtqZcE1x2o4ZKyI.jpg",
-        "provider_ids": [
-            15
-        ],
-        "title": "The Da Vinci Code",
-        "original_title": "The Da Vinci Code",
-        "release_date": "2006-05-17",
         "adult": false
     },
     {
@@ -3353,6 +3548,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Bourne Identity",
         "original_title": "The Bourne Identity",
         "release_date": "2002-06-14",
@@ -3370,6 +3566,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Shazam!",
         "original_title": "Shazam!",
         "release_date": "2019-03-29",
@@ -3388,26 +3585,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "A Bug's Life",
         "original_title": "A Bug's Life",
         "release_date": "1998-11-25",
-        "adult": false
-    },
-    {
-        "id": 9479,
-        "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
-        "genre_ids": [
-            14,
-            16,
-            10751
-        ],
-        "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "The Nightmare Before Christmas",
-        "original_title": "The Nightmare Before Christmas",
-        "release_date": "1993-10-09",
         "adult": false
     },
     {
@@ -3422,9 +3603,28 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Watchmen",
         "original_title": "Watchmen",
         "release_date": "2009-03-04",
+        "adult": false
+    },
+    {
+        "id": 9479,
+        "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+        "genre_ids": [
+            14,
+            16,
+            10751
+        ],
+        "poster_path": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "The Nightmare Before Christmas",
+        "original_title": "The Nightmare Before Christmas",
+        "release_date": "1993-10-09",
         "adult": false
     },
     {
@@ -3438,6 +3638,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "365 Days",
         "original_title": "365 dni",
         "release_date": "2020-02-07",
@@ -3455,6 +3656,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Godzilla",
         "original_title": "Godzilla",
         "release_date": "2014-05-14",
@@ -3472,6 +3674,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Tenet",
         "original_title": "Tenet",
         "release_date": "2020-08-22",
@@ -3485,10 +3688,11 @@
             16,
             12
         ],
-        "poster_path": "/yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg",
+        "poster_path": "/mEh0NFn1C3PdbLScbooFMoaM5ET.jpg",
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Howl's Moving Castle",
         "original_title": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
         "release_date": "2004-09-09",
@@ -3506,6 +3710,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Alita: Battle Angel",
         "original_title": "Alita: Battle Angel",
         "release_date": "2019-01-31",
@@ -3524,6 +3729,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Encanto",
         "original_title": "Encanto",
         "release_date": "2021-10-13",
@@ -3540,6 +3746,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Cruella",
         "original_title": "Cruella",
         "release_date": "2021-05-26",
@@ -3557,25 +3764,10 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Mummy",
         "original_title": "The Mummy",
         "release_date": "1999-04-16",
-        "adult": false
-    },
-    {
-        "id": 138832,
-        "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
-        "genre_ids": [
-            35,
-            80
-        ],
-        "poster_path": "/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "We're the Millers",
-        "original_title": "We're the Millers",
-        "release_date": "2013-08-07",
         "adult": false
     },
     {
@@ -3589,9 +3781,27 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Indiana Jones and the Temple of Doom",
         "original_title": "Indiana Jones and the Temple of Doom",
         "release_date": "1984-05-23",
+        "adult": false
+    },
+    {
+        "id": 138832,
+        "overview": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+        "genre_ids": [
+            35,
+            80
+        ],
+        "poster_path": "/qF2LJ0jwWrtXSuT4AFD5OS2IqaT.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "We're the Millers",
+        "original_title": "We're the Millers",
+        "release_date": "2013-08-07",
         "adult": false
     },
     {
@@ -3606,6 +3816,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Saw",
         "original_title": "Saw",
         "release_date": "2004-10-01",
@@ -3622,6 +3833,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "To All the Boys I've Loved Before",
         "original_title": "To All the Boys I've Loved Before",
         "release_date": "2018-08-16",
@@ -3638,9 +3850,27 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Snatch",
         "original_title": "Snatch",
         "release_date": "2000-09-01",
+        "adult": false
+    },
+    {
+        "id": 45269,
+        "overview": "The King's Speech tells the story of the man who became King George VI, the father of Queen Elizabeth II. After his brother abdicates, George ('Bertie') reluctantly assumes the throne. Plagued by a dreaded stutter and considered unfit to be king, Bertie engages the help of an unorthodox speech therapist named Lionel Logue. Through a set of unexpected techniques, and as a result of an unlikely friendship, Bertie is able to find his voice and boldly lead the country into war.",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "poster_path": "/uQ538BfYLDJh3GXlzRZLo0j7PFj.jpg",
+        "provider_ids": [
+            9
+        ],
+        "media_type": "movie",
+        "title": "The King's Speech",
+        "original_title": "The King's Speech",
+        "release_date": "2010-11-26",
         "adult": false
     },
     {
@@ -3654,24 +3884,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Ghostbusters",
         "original_title": "Ghostbusters",
         "release_date": "1984-06-08",
-        "adult": false
-    },
-    {
-        "id": 109439,
-        "overview": "This time, there's no wedding. No bachelor party. What could go wrong, right? But when the Wolfpack hits the road, all bets are off.",
-        "genre_ids": [
-            35
-        ],
-        "poster_path": "/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "The Hangover Part III",
-        "original_title": "The Hangover Part III",
-        "release_date": "2013-05-23",
         "adult": false
     },
     {
@@ -3687,6 +3903,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Hotel Transylvania",
         "original_title": "Hotel Transylvania",
         "release_date": "2012-09-20",
@@ -3704,6 +3921,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Shang-Chi and the Legend of the Ten Rings",
         "original_title": "Shang-Chi and the Legend of the Ten Rings",
         "release_date": "2021-09-01",
@@ -3722,6 +3940,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Minority Report",
         "original_title": "Minority Report",
         "release_date": "2002-06-20",
@@ -3739,6 +3958,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Transformers: Revenge of the Fallen",
         "original_title": "Transformers: Revenge of the Fallen",
         "release_date": "2009-06-19",
@@ -3756,6 +3976,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Solo: A Star Wars Story",
         "original_title": "Solo: A Star Wars Story",
         "release_date": "2018-05-15",
@@ -3772,6 +3993,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Spotlight",
         "original_title": "Spotlight",
         "release_date": "2015-11-06",
@@ -3788,6 +4010,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "After",
         "original_title": "After",
         "release_date": "2019-04-11",
@@ -3805,6 +4028,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Sicario",
         "original_title": "Sicario",
         "release_date": "2015-09-17",
@@ -3823,26 +4047,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Jungle Book",
         "original_title": "The Jungle Book",
         "release_date": "2016-04-07",
-        "adult": false
-    },
-    {
-        "id": 464052,
-        "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
-        "genre_ids": [
-            28,
-            12,
-            14
-        ],
-        "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Wonder Woman 1984",
-        "original_title": "Wonder Woman 1984",
-        "release_date": "2020-12-16",
         "adult": false
     },
     {
@@ -3857,26 +4065,28 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "About Time",
         "original_title": "About Time",
         "release_date": "2013-09-04",
         "adult": false
     },
     {
-        "id": 38356,
-        "overview": "The Autobots continue to work for NEST, now no longer in secret. But after discovering a strange artifact during a mission in Chernobyl, it becomes apparent to Optimus Prime that the United States government has been less than forthright with them.",
+        "id": 464052,
+        "overview": "A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.",
         "genre_ids": [
             28,
-            878,
-            12
+            12,
+            14
         ],
-        "poster_path": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+        "poster_path": "/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
         "provider_ids": [
-            8
+            384
         ],
-        "title": "Transformers: Dark of the Moon",
-        "original_title": "Transformers: Dark of the Moon",
-        "release_date": "2011-06-28",
+        "media_type": "movie",
+        "title": "Wonder Woman 1984",
+        "original_title": "Wonder Woman 1984",
+        "release_date": "2020-12-16",
         "adult": false
     },
     {
@@ -3891,9 +4101,28 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Batman",
         "original_title": "The Batman",
         "release_date": "2022-03-02",
+        "adult": false
+    },
+    {
+        "id": 38356,
+        "overview": "The Autobots continue to work for NEST, now no longer in secret. But after discovering a strange artifact during a mission in Chernobyl, it becomes apparent to Optimus Prime that the United States government has been less than forthright with them.",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "poster_path": "/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "Transformers: Dark of the Moon",
+        "original_title": "Transformers: Dark of the Moon",
+        "release_date": "2011-06-28",
         "adult": false
     },
     {
@@ -3907,6 +4136,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Conjuring 2",
         "original_title": "The Conjuring 2",
         "release_date": "2016-06-08",
@@ -3924,6 +4154,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Lost World: Jurassic Park",
         "original_title": "The Lost World: Jurassic Park",
         "release_date": "1997-05-23",
@@ -3941,6 +4172,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Source Code",
         "original_title": "Source Code",
         "release_date": "2011-03-30",
@@ -3958,6 +4190,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Sin City",
         "original_title": "Sin City",
         "release_date": "2005-04-01",
@@ -3974,6 +4207,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Friends with Benefits",
         "original_title": "Friends with Benefits",
         "release_date": "2011-07-21",
@@ -3990,6 +4224,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Breakfast Club",
         "original_title": "The Breakfast Club",
         "release_date": "1985-02-15",
@@ -4007,6 +4242,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Transformers: Age of Extinction",
         "original_title": "Transformers: Age of Extinction",
         "release_date": "2014-06-25",
@@ -4024,6 +4260,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Simpsons Movie",
         "original_title": "The Simpsons Movie",
         "release_date": "2007-07-25",
@@ -4041,6 +4278,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Real Steel",
         "original_title": "Real Steel",
         "release_date": "2011-09-28",
@@ -4057,6 +4295,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Indiana Jones and the Kingdom of the Crystal Skull",
         "original_title": "Indiana Jones and the Kingdom of the Crystal Skull",
         "release_date": "2008-05-21",
@@ -4075,6 +4314,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Fantastic Four: Rise of the Silver Surfer",
         "original_title": "Fantastic Four: Rise of the Silver Surfer",
         "release_date": "2007-06-13",
@@ -4093,6 +4333,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Luca",
         "original_title": "Luca",
         "release_date": "2021-06-17",
@@ -4109,27 +4350,10 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Top Gun",
         "original_title": "Top Gun",
         "release_date": "1986-05-16",
-        "adult": false
-    },
-    {
-        "id": 95,
-        "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
-        "genre_ids": [
-            28,
-            53,
-            878,
-            12
-        ],
-        "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Armageddon",
-        "original_title": "Armageddon",
-        "release_date": "1998-07-01",
         "adult": false
     },
     {
@@ -4145,9 +4369,29 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Quantum of Solace",
         "original_title": "Quantum of Solace",
         "release_date": "2008-10-29",
+        "adult": false
+    },
+    {
+        "id": 95,
+        "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+        "genre_ids": [
+            28,
+            53,
+            878,
+            12
+        ],
+        "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Armageddon",
+        "original_title": "Armageddon",
+        "release_date": "1998-07-01",
         "adult": false
     },
     {
@@ -4162,6 +4406,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Suicide Squad",
         "original_title": "The Suicide Squad",
         "release_date": "2021-07-28",
@@ -4179,6 +4424,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "King Kong",
         "original_title": "King Kong",
         "release_date": "2005-12-12",
@@ -4195,6 +4441,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Cabin in the Woods",
         "original_title": "The Cabin in the Woods",
         "release_date": "2012-04-12",
@@ -4210,6 +4457,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Help",
         "original_title": "The Help",
         "release_date": "2011-08-09",
@@ -4229,6 +4477,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Lego Movie",
         "original_title": "The Lego Movie",
         "release_date": "2014-02-06",
@@ -4245,6 +4494,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Nocturnal Animals",
         "original_title": "Nocturnal Animals",
         "release_date": "2016-11-04",
@@ -4262,26 +4512,10 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Expendables",
         "original_title": "The Expendables",
         "release_date": "2010-08-03",
-        "adult": false
-    },
-    {
-        "id": 290250,
-        "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
-        "genre_ids": [
-            35,
-            80,
-            28
-        ],
-        "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
-        "provider_ids": [
-            8
-        ],
-        "title": "The Nice Guys",
-        "original_title": "The Nice Guys",
-        "release_date": "2016-05-15",
         "adult": false
     },
     {
@@ -4296,9 +4530,28 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Doctor Strange in the Multiverse of Madness",
         "original_title": "Doctor Strange in the Multiverse of Madness",
         "release_date": "2022-05-04",
+        "adult": false
+    },
+    {
+        "id": 290250,
+        "overview": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "poster_path": "/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "The Nice Guys",
+        "original_title": "The Nice Guys",
+        "release_date": "2016-05-15",
         "adult": false
     },
     {
@@ -4313,6 +4566,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Little Mermaid",
         "original_title": "The Little Mermaid",
         "release_date": "1989-11-17",
@@ -4331,9 +4585,28 @@
             384,
             337
         ],
+        "media_type": "movie",
         "title": "Free Guy",
         "original_title": "Free Guy",
         "release_date": "2021-08-13",
+        "adult": false
+    },
+    {
+        "id": 524434,
+        "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "Eternals",
+        "original_title": "Eternals",
+        "release_date": "2021-11-03",
         "adult": false
     },
     {
@@ -4346,27 +4619,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Exorcist",
         "original_title": "The Exorcist",
         "release_date": "1973-12-26",
-        "adult": false
-    },
-    {
-        "id": 116745,
-        "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
-        "genre_ids": [
-            12,
-            35,
-            18,
-            14
-        ],
-        "poster_path": "/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "The Secret Life of Walter Mitty",
-        "original_title": "The Secret Life of Walter Mitty",
-        "release_date": "2013-12-18",
         "adult": false
     },
     {
@@ -4382,44 +4638,29 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Maze Runner: The Death Cure",
         "original_title": "Maze Runner: The Death Cure",
         "release_date": "2018-01-10",
         "adult": false
     },
     {
-        "id": 524434,
-        "overview": "The Eternals are a team of ancient aliens who have been living on Earth in secret for thousands of years. When an unexpected tragedy forces them out of the shadows, they are forced to reunite against mankind\u2019s most ancient enemy, the Deviants.",
+        "id": 116745,
+        "overview": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
         "genre_ids": [
-            878,
-            28,
-            12
-        ],
-        "poster_path": "/lFByFSLV5WDJEv3KabbdAF959F2.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "Eternals",
-        "original_title": "Eternals",
-        "release_date": "2021-11-03",
-        "adult": false
-    },
-    {
-        "id": 106,
-        "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-        "genre_ids": [
-            878,
-            28,
             12,
-            53
+            35,
+            18,
+            14
         ],
-        "poster_path": "/9XibNLfmUWCg0PPydmyoCl1KxvF.jpg",
+        "poster_path": "/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
         "provider_ids": [
             384
         ],
-        "title": "Predator",
-        "original_title": "Predator",
-        "release_date": "1987-06-12",
+        "media_type": "movie",
+        "title": "The Secret Life of Walter Mitty",
+        "original_title": "The Secret Life of Walter Mitty",
+        "release_date": "2013-12-18",
         "adult": false
     },
     {
@@ -4434,9 +4675,29 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Princess Mononoke",
         "original_title": "\u3082\u306e\u306e\u3051\u59eb",
         "release_date": "1997-07-12",
+        "adult": false
+    },
+    {
+        "id": 106,
+        "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+        "genre_ids": [
+            878,
+            28,
+            12,
+            53
+        ],
+        "poster_path": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Predator",
+        "original_title": "Predator",
+        "release_date": "1987-06-12",
         "adult": false
     },
     {
@@ -4450,6 +4711,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Dune",
         "original_title": "Dune",
         "release_date": "2021-10-22",
@@ -4467,6 +4729,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Scott Pilgrim vs. the World",
         "original_title": "Scott Pilgrim vs. the World",
         "release_date": "2010-08-12",
@@ -4485,6 +4748,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ice Age: Continental Drift",
         "original_title": "Ice Age: Continental Drift",
         "release_date": "2012-06-27",
@@ -4501,6 +4765,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Kissing Booth",
         "original_title": "The Kissing Booth",
         "release_date": "2018-05-11",
@@ -4518,6 +4783,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Batman",
         "original_title": "Batman",
         "release_date": "1989-06-23",
@@ -4536,6 +4802,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Cars 2",
         "original_title": "Cars 2",
         "release_date": "2011-06-11",
@@ -4549,10 +4816,11 @@
             14,
             10751
         ],
-        "poster_path": "/w9FWbPkD2FZ1mOo8yHOw0rDyV6u.jpg",
+        "poster_path": "/vayx5t1cYCpBGV9ylTGn0Sr9rA2.jpg",
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Percy Jackson & the Olympians: The Lightning Thief",
         "original_title": "Percy Jackson & the Olympians: The Lightning Thief",
         "release_date": "2010-02-01",
@@ -4570,6 +4838,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Bourne Supremacy",
         "original_title": "The Bourne Supremacy",
         "release_date": "2004-07-23",
@@ -4587,6 +4856,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "My Neighbor Totoro",
         "original_title": "\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed",
         "release_date": "1988-04-16",
@@ -4605,6 +4875,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Ralph Breaks the Internet",
         "original_title": "Ralph Breaks the Internet",
         "release_date": "2018-11-20",
@@ -4621,6 +4892,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Rocky",
         "original_title": "Rocky",
         "release_date": "1976-11-21",
@@ -4637,6 +4909,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "American Hustle",
         "original_title": "American Hustle",
         "release_date": "2013-12-03",
@@ -4655,9 +4928,27 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Green Lantern",
         "original_title": "Green Lantern",
         "release_date": "2011-06-16",
+        "adult": false
+    },
+    {
+        "id": 646380,
+        "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
+        "genre_ids": [
+            35,
+            878
+        ],
+        "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "Don't Look Up",
+        "original_title": "Don't Look Up",
+        "release_date": "2021-12-07",
         "adult": false
     },
     {
@@ -4672,25 +4963,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Snow White and the Seven Dwarfs",
         "original_title": "Snow White and the Seven Dwarfs",
         "release_date": "1937-12-21",
-        "adult": false
-    },
-    {
-        "id": 646380,
-        "overview": "Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.",
-        "genre_ids": [
-            35,
-            878
-        ],
-        "poster_path": "/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg",
-        "provider_ids": [
-            8
-        ],
-        "title": "Don't Look Up",
-        "original_title": "Don't Look Up",
-        "release_date": "2021-12-07",
         "adult": false
     },
     {
@@ -4704,6 +4980,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Butterfly Effect",
         "original_title": "The Butterfly Effect",
         "release_date": "2004-01-17",
@@ -4724,6 +5001,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Hercules",
         "original_title": "Hercules",
         "release_date": "1997-06-20",
@@ -4741,6 +5019,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Hugo",
         "original_title": "Hugo",
         "release_date": "2011-11-22",
@@ -4757,6 +5036,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Grease",
         "original_title": "Grease",
         "release_date": "1978-07-07",
@@ -4774,6 +5054,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "How the Grinch Stole Christmas",
         "original_title": "How the Grinch Stole Christmas",
         "release_date": "2000-11-15",
@@ -4791,6 +5072,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Juno",
         "original_title": "Juno",
         "release_date": "2007-12-05",
@@ -4808,24 +5090,10 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Ford v Ferrari",
         "original_title": "Ford v Ferrari",
         "release_date": "2019-11-13",
-        "adult": false
-    },
-    {
-        "id": 195589,
-        "overview": "A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.",
-        "genre_ids": [
-            35
-        ],
-        "poster_path": "/dyO9BQ4M4flTOAzP79rmsz61yAT.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Neighbors",
-        "original_title": "Neighbors",
-        "release_date": "2014-05-08",
         "adult": false
     },
     {
@@ -4840,9 +5108,26 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Hereditary",
         "original_title": "Hereditary",
         "release_date": "2018-06-07",
+        "adult": false
+    },
+    {
+        "id": 195589,
+        "overview": "A couple with a newborn baby face unexpected difficulties after they are forced to live next to a fraternity house.",
+        "genre_ids": [
+            35
+        ],
+        "poster_path": "/dyO9BQ4M4flTOAzP79rmsz61yAT.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Neighbors",
+        "original_title": "Neighbors",
+        "release_date": "2014-05-08",
         "adult": false
     },
     {
@@ -4857,6 +5142,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "TRON: Legacy",
         "original_title": "TRON: Legacy",
         "release_date": "2010-12-14",
@@ -4873,6 +5159,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "8 Mile",
         "original_title": "8 Mile",
         "release_date": "2002-11-08",
@@ -4890,6 +5177,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Wanted",
         "original_title": "Wanted",
         "release_date": "2008-06-19",
@@ -4906,6 +5194,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Rush",
         "original_title": "Rush",
         "release_date": "2013-09-02",
@@ -4924,6 +5213,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Jurassic Park III",
         "original_title": "Jurassic Park III",
         "release_date": "2001-07-18",
@@ -4939,6 +5229,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Superbad",
         "original_title": "Superbad",
         "release_date": "2007-03-20",
@@ -4957,6 +5248,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Train to Busan",
         "original_title": "\ubd80\uc0b0\ud589",
         "release_date": "2016-07-20",
@@ -4972,6 +5264,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Marriage Story",
         "original_title": "Marriage Story",
         "release_date": "2019-09-28",
@@ -4989,6 +5282,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Tomorrow War",
         "original_title": "The Tomorrow War",
         "release_date": "2021-07-02",
@@ -5006,25 +5300,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Captain Phillips",
         "original_title": "Captain Phillips",
         "release_date": "2013-10-10",
-        "adult": false
-    },
-    {
-        "id": 1487,
-        "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
-        "genre_ids": [
-            14,
-            28
-        ],
-        "poster_path": "/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Hellboy",
-        "original_title": "Hellboy",
-        "release_date": "2004-04-02",
         "adult": false
     },
     {
@@ -5038,9 +5317,43 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Little Miss Sunshine",
         "original_title": "Little Miss Sunshine",
         "release_date": "2006-07-26",
+        "adult": false
+    },
+    {
+        "id": 1487,
+        "overview": "In the final days of World War II, the Nazis attempt to use black magic to aid their dying cause. The Allies raid the camp where the ceremony is taking place, but not before they summon a baby demon who is rescued by Allied forces and dubbed \"Hellboy\". Sixty years later, Hellboy serves the cause of good rather than evil as an agent in the Bureau of Paranormal Research & Defense, along with Abe Sapien - a merman with psychic powers, and Liz Sherman - a woman with pyrokinesis, protecting America against dark forces.",
+        "genre_ids": [
+            14,
+            28
+        ],
+        "poster_path": "/21hS8mD8uxBVvf8xVYR30LbbmPO.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Hellboy",
+        "original_title": "Hellboy",
+        "release_date": "2004-04-02",
+        "adult": false
+    },
+    {
+        "id": 11321,
+        "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+        "genre_ids": [
+            18
+        ],
+        "poster_path": "/pCVpsCEYtvtlg1I9h3rtglKgThu.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "Seven Pounds",
+        "original_title": "Seven Pounds",
+        "release_date": "2008-12-18",
         "adult": false
     },
     {
@@ -5055,24 +5368,27 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Prince of Persia: The Sands of Time",
         "original_title": "Prince of Persia: The Sands of Time",
         "release_date": "2010-05-19",
         "adult": false
     },
     {
-        "id": 11321,
-        "overview": "An IRS agent with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+        "id": 13448,
+        "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati - a secret, underground organization - after four cardinals are kidnapped on the night of the papal conclave.",
         "genre_ids": [
-            18
+            53,
+            9648
         ],
-        "poster_path": "/pCVpsCEYtvtlg1I9h3rtglKgThu.jpg",
+        "poster_path": "/uRBapeuwV8yy4in4BkETHBDmWkH.jpg",
         "provider_ids": [
             8
         ],
-        "title": "Seven Pounds",
-        "original_title": "Seven Pounds",
-        "release_date": "2008-12-18",
+        "media_type": "movie",
+        "title": "Angels & Demons",
+        "original_title": "Angels & Demons",
+        "release_date": "2009-05-13",
         "adult": false
     },
     {
@@ -5087,25 +5403,10 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Mummy Returns",
         "original_title": "The Mummy Returns",
         "release_date": "2001-05-04",
-        "adult": false
-    },
-    {
-        "id": 13448,
-        "overview": "Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati - a secret, underground organization - after four cardinals are kidnapped on the night of the papal conclave.",
-        "genre_ids": [
-            53,
-            9648
-        ],
-        "poster_path": "/uRBapeuwV8yy4in4BkETHBDmWkH.jpg",
-        "provider_ids": [
-            8
-        ],
-        "title": "Angels & Demons",
-        "original_title": "Angels & Demons",
-        "release_date": "2009-05-13",
         "adult": false
     },
     {
@@ -5119,6 +5420,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Brokeback Mountain",
         "original_title": "Brokeback Mountain",
         "release_date": "2005-09-10",
@@ -5136,6 +5438,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Constantine",
         "original_title": "Constantine",
         "release_date": "2005-02-08",
@@ -5154,6 +5457,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Madagascar: Escape 2 Africa",
         "original_title": "Madagascar: Escape 2 Africa",
         "release_date": "2008-10-30",
@@ -5172,6 +5476,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Heat",
         "original_title": "Heat",
         "release_date": "1995-12-15",
@@ -5190,6 +5495,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Allegiant",
         "original_title": "Allegiant",
         "release_date": "2016-03-09",
@@ -5207,6 +5513,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Expendables 2",
         "original_title": "The Expendables 2",
         "release_date": "2012-08-08",
@@ -5225,6 +5532,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Witch",
         "original_title": "The Witch",
         "release_date": "2015-01-27",
@@ -5243,6 +5551,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Mulan",
         "original_title": "Mulan",
         "release_date": "2020-09-04",
@@ -5260,6 +5569,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "After Earth",
         "original_title": "After Earth",
         "release_date": "2013-05-30",
@@ -5278,6 +5588,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "F9",
         "original_title": "F9",
         "release_date": "2021-05-19",
@@ -5295,6 +5606,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Super 8",
         "original_title": "Super 8",
         "release_date": "2011-06-08",
@@ -5314,6 +5626,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "RED",
         "original_title": "RED",
         "release_date": "2010-10-13",
@@ -5330,6 +5643,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Hachi: A Dog's Tale",
         "original_title": "Hachi: A Dog's Tale",
         "release_date": "2009-06-08",
@@ -5345,6 +5659,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Lion",
         "original_title": "Lion",
         "release_date": "2016-11-24",
@@ -5363,6 +5678,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Tarzan",
         "original_title": "Tarzan",
         "release_date": "1999-06-18",
@@ -5381,6 +5697,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Cinderella",
         "original_title": "Cinderella",
         "release_date": "1950-02-22",
@@ -5397,6 +5714,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The 40 Year Old Virgin",
         "original_title": "The 40 Year Old Virgin",
         "release_date": "2005-08-11",
@@ -5414,6 +5732,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Platform",
         "original_title": "El hoyo",
         "release_date": "2019-11-08",
@@ -5430,6 +5749,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Insidious",
         "original_title": "Insidious",
         "release_date": "2010-09-13",
@@ -5444,30 +5764,14 @@
             35,
             10751
         ],
-        "poster_path": "/oo7M77GXEyyqDGOhzNNZTzEuDSF.jpg",
+        "poster_path": "/BSZ2dA3G369e3pHIXGhh5orzPt.jpg",
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Rio",
         "original_title": "Rio",
         "release_date": "2011-04-03",
-        "adult": false
-    },
-    {
-        "id": 18240,
-        "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
-        "genre_ids": [
-            35,
-            10749,
-            18
-        ],
-        "poster_path": "/aYlnDia7ldvqFUst1O5S8LZeM2S.jpg",
-        "provider_ids": [
-            15
-        ],
-        "title": "The Proposal",
-        "original_title": "The Proposal",
-        "release_date": "2009-06-01",
         "adult": false
     },
     {
@@ -5482,9 +5786,28 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Irishman",
         "original_title": "The Irishman",
         "release_date": "2019-11-01",
+        "adult": false
+    },
+    {
+        "id": 18240,
+        "overview": "When she learns she's in danger of losing her visa status and being deported, overbearing book editor Margaret Tate forces her put-upon assistant, Andrew Paxton, to marry her.",
+        "genre_ids": [
+            35,
+            10749,
+            18
+        ],
+        "poster_path": "/aYlnDia7ldvqFUst1O5S8LZeM2S.jpg",
+        "provider_ids": [
+            15
+        ],
+        "media_type": "movie",
+        "title": "The Proposal",
+        "original_title": "The Proposal",
+        "release_date": "2009-06-01",
         "adult": false
     },
     {
@@ -5499,6 +5822,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "300: Rise of an Empire",
         "original_title": "300: Rise of an Empire",
         "release_date": "2014-03-05",
@@ -5518,6 +5842,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Raya and the Last Dragon",
         "original_title": "Raya and the Last Dragon",
         "release_date": "2021-03-03",
@@ -5534,6 +5859,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Purge: Anarchy",
         "original_title": "The Purge: Anarchy",
         "release_date": "2014-07-17",
@@ -5551,6 +5877,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Love Actually",
         "original_title": "Love Actually",
         "release_date": "2003-09-07",
@@ -5568,6 +5895,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Age of Adaline",
         "original_title": "The Age of Adaline",
         "release_date": "2015-04-16",
@@ -5585,6 +5913,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Alice Through the Looking Glass",
         "original_title": "Alice Through the Looking Glass",
         "release_date": "2016-05-25",
@@ -5604,6 +5933,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Emperor's New Groove",
         "original_title": "The Emperor's New Groove",
         "release_date": "2000-12-15",
@@ -5620,6 +5950,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Captain Fantastic",
         "original_title": "Captain Fantastic",
         "release_date": "2016-07-08",
@@ -5638,6 +5969,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Fast and the Furious: Tokyo Drift",
         "original_title": "The Fast and the Furious: Tokyo Drift",
         "release_date": "2006-06-03",
@@ -5654,6 +5986,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Mamma Mia!",
         "original_title": "Mamma Mia!",
         "release_date": "2008-07-03",
@@ -5671,6 +6004,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Mission: Impossible III",
         "original_title": "Mission: Impossible III",
         "release_date": "2006-04-25",
@@ -5690,6 +6024,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Rango",
         "original_title": "Rango",
         "release_date": "2011-03-02",
@@ -5707,6 +6042,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Impossible",
         "original_title": "The Impossible",
         "release_date": "2012-09-09",
@@ -5724,6 +6060,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Chronicles of Narnia: Prince Caspian",
         "original_title": "The Chronicles of Narnia: Prince Caspian",
         "release_date": "2008-05-15",
@@ -5741,25 +6078,10 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Mission: Impossible II",
         "original_title": "Mission: Impossible II",
         "release_date": "2000-05-24",
-        "adult": false
-    },
-    {
-        "id": 86834,
-        "overview": "A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.",
-        "genre_ids": [
-            18,
-            12
-        ],
-        "poster_path": "/v9qiL3HGmujEQuKAY1oniXJoSMV.jpg",
-        "provider_ids": [
-            9
-        ],
-        "title": "Noah",
-        "original_title": "Noah",
-        "release_date": "2014-03-07",
         "adult": false
     },
     {
@@ -5773,9 +6095,27 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Batman Returns",
         "original_title": "Batman Returns",
         "release_date": "1992-06-19",
+        "adult": false
+    },
+    {
+        "id": 86834,
+        "overview": "A man who suffers visions of an apocalyptic deluge takes measures to protect his family from the coming flood.",
+        "genre_ids": [
+            18,
+            12
+        ],
+        "poster_path": "/v9qiL3HGmujEQuKAY1oniXJoSMV.jpg",
+        "provider_ids": [
+            9
+        ],
+        "media_type": "movie",
+        "title": "Noah",
+        "original_title": "Noah",
+        "release_date": "2014-03-07",
         "adult": false
     },
     {
@@ -5792,6 +6132,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Pearl Harbor",
         "original_title": "Pearl Harbor",
         "release_date": "2001-05-21",
@@ -5808,6 +6149,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "It Follows",
         "original_title": "It Follows",
         "release_date": "2014-09-24",
@@ -5825,6 +6167,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Dark Phoenix",
         "original_title": "Dark Phoenix",
         "release_date": "2019-06-05",
@@ -5842,6 +6185,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Nun",
         "original_title": "The Nun",
         "release_date": "2018-09-05",
@@ -5858,6 +6202,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Predestination",
         "original_title": "Predestination",
         "release_date": "2014-08-28",
@@ -5875,6 +6220,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Man from U.N.C.L.E.",
         "original_title": "The Man from U.N.C.L.E.",
         "release_date": "2015-08-13",
@@ -5892,26 +6238,10 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Love, Simon",
         "original_title": "Love, Simon",
         "release_date": "2018-02-16",
-        "adult": false
-    },
-    {
-        "id": 59859,
-        "overview": "After Kick-Ass\u2019 insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist \u2014 reborn as The Mother Fucker \u2014 only the blade-wielding Hit-Girl can prevent their annihilation.",
-        "genre_ids": [
-            28,
-            12,
-            80
-        ],
-        "poster_path": "/4LUzG0blTn6JMhUwXSmjPqNFNXL.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Kick-Ass 2",
-        "original_title": "Kick-Ass 2",
-        "release_date": "2013-07-17",
         "adult": false
     },
     {
@@ -5927,9 +6257,28 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "National Treasure",
         "original_title": "National Treasure",
         "release_date": "2004-11-19",
+        "adult": false
+    },
+    {
+        "id": 59859,
+        "overview": "After Kick-Ass\u2019 insane bravery inspires a new wave of self-made masked crusaders, he joins a patrol led by the Colonel Stars and Stripes. When these amateur superheroes are hunted down by Red Mist \u2014 reborn as The Mother Fucker \u2014 only the blade-wielding Hit-Girl can prevent their annihilation.",
+        "genre_ids": [
+            28,
+            12,
+            80
+        ],
+        "poster_path": "/4LUzG0blTn6JMhUwXSmjPqNFNXL.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Kick-Ass 2",
+        "original_title": "Kick-Ass 2",
+        "release_date": "2013-07-17",
         "adult": false
     },
     {
@@ -5944,6 +6293,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Jungle Book",
         "original_title": "The Jungle Book",
         "release_date": "1967-10-18",
@@ -5961,6 +6311,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Gremlins",
         "original_title": "Gremlins",
         "release_date": "1984-06-07",
@@ -5979,6 +6330,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "One Hundred and One Dalmatians",
         "original_title": "One Hundred and One Dalmatians",
         "release_date": "1961-01-25",
@@ -5996,6 +6348,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Resident Evil",
         "original_title": "Resident Evil",
         "release_date": "2002-03-15",
@@ -6011,6 +6364,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Annabelle",
         "original_title": "Annabelle",
         "release_date": "2014-10-02",
@@ -6030,6 +6384,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Dracula Untold",
         "original_title": "Dracula Untold",
         "release_date": "2014-10-01",
@@ -6047,6 +6402,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Underworld",
         "original_title": "Underworld",
         "release_date": "2003-09-19",
@@ -6065,6 +6421,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Lara Croft: Tomb Raider",
         "original_title": "Lara Croft: Tomb Raider",
         "release_date": "2001-06-11",
@@ -6084,6 +6441,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "What Happened to Monday",
         "original_title": "What Happened to Monday",
         "release_date": "2017-08-18",
@@ -6101,6 +6459,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "A.I. Artificial Intelligence",
         "original_title": "A.I. Artificial Intelligence",
         "release_date": "2001-06-29",
@@ -6116,6 +6475,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Rain Man",
         "original_title": "Rain Man",
         "release_date": "1988-12-11",
@@ -6133,6 +6493,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Nobody",
         "original_title": "Nobody",
         "release_date": "2021-03-18",
@@ -6150,6 +6511,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Fantastic Four",
         "original_title": "Fantastic Four",
         "release_date": "2015-08-05",
@@ -6167,6 +6529,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Contagion",
         "original_title": "Contagion",
         "release_date": "2011-09-08",
@@ -6185,6 +6548,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Maleficent: Mistress of Evil",
         "original_title": "Maleficent: Mistress of Evil",
         "release_date": "2019-10-16",
@@ -6205,6 +6569,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Onward",
         "original_title": "Onward",
         "release_date": "2020-02-29",
@@ -6221,9 +6586,28 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Lilo & Stitch",
         "original_title": "Lilo & Stitch",
         "release_date": "2002-06-21",
+        "adult": false
+    },
+    {
+        "id": 616037,
+        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher\u2019s vengeance and stop him before it\u2019s too late.",
+        "genre_ids": [
+            14,
+            28,
+            35
+        ],
+        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "Thor: Love and Thunder",
+        "original_title": "Thor: Love and Thunder",
+        "release_date": "2022-07-06",
         "adult": false
     },
     {
@@ -6239,6 +6623,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "First Blood",
         "original_title": "First Blood",
         "release_date": "1982-10-22",
@@ -6257,26 +6642,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Bolt",
         "original_title": "Bolt",
         "release_date": "2008-11-21",
-        "adult": false
-    },
-    {
-        "id": 616037,
-        "overview": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher\u2019s vengeance and stop him before it\u2019s too late.",
-        "genre_ids": [
-            14,
-            28,
-            35
-        ],
-        "poster_path": "/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "Thor: Love and Thunder",
-        "original_title": "Thor: Love and Thunder",
-        "release_date": "2022-07-06",
         "adult": false
     },
     {
@@ -6291,6 +6660,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Notting Hill",
         "original_title": "Notting Hill",
         "release_date": "1999-05-21",
@@ -6309,6 +6679,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Night at the Museum: Secret of the Tomb",
         "original_title": "Night at the Museum: Secret of the Tomb",
         "release_date": "2014-12-17",
@@ -6326,6 +6697,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Lobster",
         "original_title": "The Lobster",
         "release_date": "2015-10-15",
@@ -6342,6 +6714,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Sweeney Todd: The Demon Barber of Fleet Street",
         "original_title": "Sweeney Todd: The Demon Barber of Fleet Street",
         "release_date": "2007-12-20",
@@ -6359,6 +6732,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Ender's Game",
         "original_title": "Ender's Game",
         "release_date": "2013-10-24",
@@ -6377,6 +6751,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Alice in Wonderland",
         "original_title": "Alice in Wonderland",
         "release_date": "1951-07-28",
@@ -6395,6 +6770,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Central Intelligence",
         "original_title": "Central Intelligence",
         "release_date": "2016-06-15",
@@ -6411,6 +6787,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pinocchio",
         "original_title": "Pinocchio",
         "release_date": "1940-02-23",
@@ -6430,6 +6807,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Enola Holmes",
         "original_title": "Enola Holmes",
         "release_date": "2020-09-23",
@@ -6445,9 +6823,26 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Dictator",
         "original_title": "The Dictator",
         "release_date": "2012-05-15",
+        "adult": false
+    },
+    {
+        "id": 334541,
+        "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+        "genre_ids": [
+            18
+        ],
+        "poster_path": "/e8daDzP0vFOnGyKmve95Yv0D0io.jpg",
+        "provider_ids": [
+            9
+        ],
+        "media_type": "movie",
+        "title": "Manchester by the Sea",
+        "original_title": "Manchester by the Sea",
+        "release_date": "2016-11-18",
         "adult": false
     },
     {
@@ -6461,41 +6856,10 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Interview",
         "original_title": "The Interview",
         "release_date": "2014-12-25",
-        "adult": false
-    },
-    {
-        "id": 274857,
-        "overview": "When the child Arthur\u2019s father is murdered, Vortigern, Arthur\u2019s uncle, seizes the crown. Robbed of his birthright and with no idea who he truly is, Arthur comes up the hard way in the back alleys of the city. But once he pulls the sword Excalibur from the stone, his life is turned upside down and he is forced to acknowledge his true legacy... whether he likes it or not.",
-        "genre_ids": [
-            28,
-            18,
-            14
-        ],
-        "poster_path": "/9kKXH6eJpzoFGhCbTN3FVwSQK3n.jpg",
-        "provider_ids": [
-            15
-        ],
-        "title": "King Arthur: Legend of the Sword",
-        "original_title": "King Arthur: Legend of the Sword",
-        "release_date": "2017-05-10",
-        "adult": false
-    },
-    {
-        "id": 334541,
-        "overview": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
-        "genre_ids": [
-            18
-        ],
-        "poster_path": "/e8daDzP0vFOnGyKmve95Yv0D0io.jpg",
-        "provider_ids": [
-            9
-        ],
-        "title": "Manchester by the Sea",
-        "original_title": "Manchester by the Sea",
-        "release_date": "2016-11-18",
         "adult": false
     },
     {
@@ -6511,6 +6875,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "From Dusk Till Dawn",
         "original_title": "From Dusk Till Dawn",
         "release_date": "1996-01-19",
@@ -6528,6 +6893,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Bright",
         "original_title": "Bright",
         "release_date": "2017-12-22",
@@ -6544,6 +6910,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Enemy",
         "original_title": "Enemy",
         "release_date": "2013-12-31",
@@ -6561,9 +6928,26 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Prey",
         "original_title": "Prey",
         "release_date": "2022-08-02",
+        "adult": false
+    },
+    {
+        "id": 389015,
+        "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+        "genre_ids": [
+            18
+        ],
+        "poster_path": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+        "provider_ids": [
+            15
+        ],
+        "media_type": "movie",
+        "title": "I, Tonya",
+        "original_title": "I, Tonya",
+        "release_date": "2017-12-08",
         "adult": false
     },
     {
@@ -6579,24 +6963,10 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Hotel Transylvania 2",
         "original_title": "Hotel Transylvania 2",
         "release_date": "2015-09-21",
-        "adult": false
-    },
-    {
-        "id": 389015,
-        "overview": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
-        "genre_ids": [
-            18
-        ],
-        "poster_path": "/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
-        "provider_ids": [
-            15
-        ],
-        "title": "I, Tonya",
-        "original_title": "I, Tonya",
-        "release_date": "2017-12-08",
         "adult": false
     },
     {
@@ -6612,26 +6982,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Pocahontas",
         "original_title": "Pocahontas",
         "release_date": "1995-06-14",
-        "adult": false
-    },
-    {
-        "id": 8247,
-        "overview": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David\u2019s extraordinary gift may be his only hope for survival!",
-        "genre_ids": [
-            28,
-            12,
-            878
-        ],
-        "poster_path": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Jumper",
-        "original_title": "Jumper",
-        "release_date": "2008-02-13",
         "adult": false
     },
     {
@@ -6646,9 +7000,28 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "A Quiet Place Part II",
         "original_title": "A Quiet Place Part II",
         "release_date": "2021-05-21",
+        "adult": false
+    },
+    {
+        "id": 8247,
+        "overview": "David Rice is a man who knows no boundaries, a Jumper, born with the uncanny ability to teleport instantly to anywhere on Earth. When he discovers others like himself, David is thrust into a dangerous and bloodthirsty war while being hunted by a sinister and determined group of zealots who have sworn to destroy all Jumpers. Now, David\u2019s extraordinary gift may be his only hope for survival!",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "poster_path": "/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Jumper",
+        "original_title": "Jumper",
+        "release_date": "2008-02-13",
         "adult": false
     },
     {
@@ -6663,6 +7036,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Interview with the Vampire",
         "original_title": "Interview with the Vampire",
         "release_date": "1994-11-11",
@@ -6679,6 +7053,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Five Feet Apart",
         "original_title": "Five Feet Apart",
         "release_date": "2019-03-14",
@@ -6696,6 +7071,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Training Day",
         "original_title": "Training Day",
         "release_date": "2001-10-05",
@@ -6712,6 +7088,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Collateral Beauty",
         "original_title": "Collateral Beauty",
         "release_date": "2016-12-06",
@@ -6729,6 +7106,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Annabelle: Creation",
         "original_title": "Annabelle: Creation",
         "release_date": "2017-08-03",
@@ -6748,6 +7126,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Kung Fu Panda 3",
         "original_title": "Kung Fu Panda 3",
         "release_date": "2016-01-23",
@@ -6765,6 +7144,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "John Carter",
         "original_title": "John Carter",
         "release_date": "2012-03-07",
@@ -6781,6 +7161,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Moon",
         "original_title": "Moon",
         "release_date": "2009-06-12",
@@ -6798,9 +7179,28 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Monty Python and the Holy Grail",
         "original_title": "Monty Python and the Holy Grail",
         "release_date": "1975-05-25",
+        "adult": false
+    },
+    {
+        "id": 370172,
+        "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
+        "provider_ids": [
+            9
+        ],
+        "media_type": "movie",
+        "title": "No Time to Die",
+        "original_title": "No Time to Die",
+        "release_date": "2021-09-29",
         "adult": false
     },
     {
@@ -6815,6 +7215,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
         "original_title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
         "release_date": "2010-12-02",
@@ -6832,26 +7233,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Bambi",
         "original_title": "Bambi",
         "release_date": "1942-02-11",
-        "adult": false
-    },
-    {
-        "id": 370172,
-        "overview": "Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-        "genre_ids": [
-            12,
-            28,
-            53
-        ],
-        "poster_path": "/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg",
-        "provider_ids": [
-            9
-        ],
-        "title": "No Time to Die",
-        "original_title": "No Time to Die",
-        "release_date": "2021-09-29",
         "adult": false
     },
     {
@@ -6866,6 +7251,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Total Recall",
         "original_title": "Total Recall",
         "release_date": "1990-06-01",
@@ -6882,6 +7268,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Southpaw",
         "original_title": "Southpaw",
         "release_date": "2015-03-24",
@@ -6900,6 +7287,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Who Framed Roger Rabbit",
         "original_title": "Who Framed Roger Rabbit",
         "release_date": "1988-06-21",
@@ -6918,9 +7306,29 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Transcendence",
         "original_title": "Transcendence",
         "release_date": "2014-04-16",
+        "adult": false
+    },
+    {
+        "id": 117,
+        "overview": "Young Treasury Agent Eliot Ness arrives in Chicago and is determined to take down Al Capone, but it's not going to be easy because Capone has the police in his pocket. Ness meets Jim Malone, a veteran patrolman and probably the most honorable one on the force. He asks Malone to help him get Capone, but Malone warns him that if he goes after Capone, he is going to war.",
+        "genre_ids": [
+            80,
+            18,
+            36,
+            53
+        ],
+        "poster_path": "/sfMVTmd5irneaZOmQVdB8gFlId3.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "The Untouchables",
+        "original_title": "The Untouchables",
+        "release_date": "1987-06-03",
         "adult": false
     },
     {
@@ -6934,6 +7342,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "RoboCop",
         "original_title": "RoboCop",
         "release_date": "2014-01-30",
@@ -6951,27 +7360,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Black Hawk Down",
         "original_title": "Black Hawk Down",
         "release_date": "2001-12-28",
-        "adult": false
-    },
-    {
-        "id": 117,
-        "overview": "Young Treasury Agent Eliot Ness arrives in Chicago and is determined to take down Al Capone, but it's not going to be easy because Capone has the police in his pocket. Ness meets Jim Malone, a veteran patrolman and probably the most honorable one on the force. He asks Malone to help him get Capone, but Malone warns him that if he goes after Capone, he is going to war.",
-        "genre_ids": [
-            80,
-            18,
-            36,
-            53
-        ],
-        "poster_path": "/sfMVTmd5irneaZOmQVdB8gFlId3.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "The Untouchables",
-        "original_title": "The Untouchables",
-        "release_date": "1987-06-03",
         "adult": false
     },
     {
@@ -6987,6 +7379,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Enchanted",
         "original_title": "Enchanted",
         "release_date": "2007-11-20",
@@ -7005,6 +7398,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Cars 3",
         "original_title": "Cars 3",
         "release_date": "2017-06-15",
@@ -7022,6 +7416,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Good Dinosaur",
         "original_title": "The Good Dinosaur",
         "release_date": "2015-11-14",
@@ -7037,6 +7432,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Liar Liar",
         "original_title": "Liar Liar",
         "release_date": "1997-03-21",
@@ -7055,6 +7451,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Signs",
         "original_title": "Signs",
         "release_date": "2002-08-02",
@@ -7071,6 +7468,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "After We Collided",
         "original_title": "After We Collided",
         "release_date": "2020-09-02",
@@ -7088,6 +7486,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Jungle Cruise",
         "original_title": "Jungle Cruise",
         "release_date": "2021-07-28",
@@ -7105,6 +7504,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Extraction",
         "original_title": "Extraction",
         "release_date": "2020-04-24",
@@ -7122,6 +7522,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Adventures of Tintin",
         "original_title": "The Adventures of Tintin",
         "release_date": "2011-10-24",
@@ -7139,6 +7540,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Wizard of Oz",
         "original_title": "The Wizard of Oz",
         "release_date": "1939-08-15",
@@ -7155,6 +7557,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Les Mis\u00e9rables",
         "original_title": "Les Mis\u00e9rables",
         "release_date": "2012-12-18",
@@ -7172,6 +7575,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Non-Stop",
         "original_title": "Non-Stop",
         "release_date": "2014-02-26",
@@ -7189,6 +7593,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Mars Attacks!",
         "original_title": "Mars Attacks!",
         "release_date": "1996-12-12",
@@ -7206,6 +7611,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Brother Bear",
         "original_title": "Brother Bear",
         "release_date": "2003-10-23",
@@ -7222,6 +7628,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Machinist",
         "original_title": "The Machinist",
         "release_date": "2004-02-09",
@@ -7240,6 +7647,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Peter Pan",
         "original_title": "Peter Pan",
         "release_date": "1953-02-05",
@@ -7257,6 +7665,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Princess and the Frog",
         "original_title": "The Princess and the Frog",
         "release_date": "2009-12-08",
@@ -7273,6 +7682,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Citizen Kane",
         "original_title": "Citizen Kane",
         "release_date": "1941-04-17",
@@ -7290,6 +7700,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Apocalypto",
         "original_title": "Apocalypto",
         "release_date": "2006-12-07",
@@ -7308,6 +7719,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Hook",
         "original_title": "Hook",
         "release_date": "1991-04-10",
@@ -7325,6 +7737,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Percy Jackson: Sea of Monsters",
         "original_title": "Percy Jackson: Sea of Monsters",
         "release_date": "2013-08-07",
@@ -7341,9 +7754,28 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Kissing Booth 2",
         "original_title": "The Kissing Booth 2",
         "release_date": "2020-07-24",
+        "adult": false
+    },
+    {
+        "id": 522627,
+        "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he\u2019s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+        "genre_ids": [
+            35,
+            80,
+            28
+        ],
+        "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "The Gentlemen",
+        "original_title": "The Gentlemen",
+        "release_date": "2019-11-14",
         "adult": false
     },
     {
@@ -7358,6 +7790,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Lady and the Tramp",
         "original_title": "Lady and the Tramp",
         "release_date": "1955-06-22",
@@ -7373,26 +7806,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
         "original_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
         "release_date": "2006-11-01",
-        "adult": false
-    },
-    {
-        "id": 522627,
-        "overview": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he\u2019s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
-        "genre_ids": [
-            35,
-            80,
-            28
-        ],
-        "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
-        "provider_ids": [
-            8
-        ],
-        "title": "The Gentlemen",
-        "original_title": "The Gentlemen",
-        "release_date": "2019-11-14",
         "adult": false
     },
     {
@@ -7407,6 +7824,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Chronicle",
         "original_title": "Chronicle",
         "release_date": "2012-02-01",
@@ -7422,9 +7840,29 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Aviator",
         "original_title": "The Aviator",
         "release_date": "2004-12-17",
+        "adult": false
+    },
+    {
+        "id": 512195,
+        "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53
+        ],
+        "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+        "provider_ids": [
+            8
+        ],
+        "media_type": "movie",
+        "title": "Red Notice",
+        "original_title": "Red Notice",
+        "release_date": "2021-11-04",
         "adult": false
     },
     {
@@ -7438,6 +7876,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Escape Plan",
         "original_title": "Escape Plan",
         "release_date": "2013-10-09",
@@ -7454,6 +7893,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Casablanca",
         "original_title": "Casablanca",
         "release_date": "1942-11-26",
@@ -7472,27 +7912,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Sleeping Beauty",
         "original_title": "Sleeping Beauty",
         "release_date": "1959-02-17",
-        "adult": false
-    },
-    {
-        "id": 512195,
-        "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
-        "genre_ids": [
-            28,
-            35,
-            80,
-            53
-        ],
-        "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
-        "provider_ids": [
-            8
-        ],
-        "title": "Red Notice",
-        "original_title": "Red Notice",
-        "release_date": "2021-11-04",
         "adult": false
     },
     {
@@ -7506,6 +7929,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Darkest Hour",
         "original_title": "Darkest Hour",
         "release_date": "2017-11-22",
@@ -7523,6 +7947,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Batman Forever",
         "original_title": "Batman Forever",
         "release_date": "1995-06-16",
@@ -7541,6 +7966,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "National Treasure: Book of Secrets",
         "original_title": "National Treasure: Book of Secrets",
         "release_date": "2007-12-13",
@@ -7558,6 +7984,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Lemony Snicket's A Series of Unfortunate Events",
         "original_title": "Lemony Snicket's A Series of Unfortunate Events",
         "release_date": "2004-12-16",
@@ -7575,6 +8002,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Matrix Resurrections",
         "original_title": "The Matrix Resurrections",
         "release_date": "2021-12-16",
@@ -7587,10 +8015,11 @@
             27,
             10749
         ],
-        "poster_path": "/g6lDR5EQuOwNwl9Ni5ROEVNXYbw.jpg",
+        "poster_path": "/f9TOb5anVwZeSbYjU1qNxPk3KUk.jpg",
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Crimson Peak",
         "original_title": "Crimson Peak",
         "release_date": "2015-10-13",
@@ -7606,6 +8035,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Saw II",
         "original_title": "Saw II",
         "release_date": "2005-10-28",
@@ -7622,6 +8052,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Daredevil",
         "original_title": "Daredevil",
         "release_date": "2003-02-14",
@@ -7638,6 +8069,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Romeo + Juliet",
         "original_title": "Romeo + Juliet",
         "release_date": "1996-11-01",
@@ -7654,6 +8086,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Paranormal Activity",
         "original_title": "Paranormal Activity",
         "release_date": "2007-09-14",
@@ -7671,6 +8104,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Sorcerer's Apprentice",
         "original_title": "The Sorcerer's Apprentice",
         "release_date": "2010-07-13",
@@ -7689,9 +8123,29 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Aristocats",
         "original_title": "The Aristocats",
         "release_date": "1970-12-24",
+        "adult": false
+    },
+    {
+        "id": 10315,
+        "overview": "The Fantastic Mr. Fox bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+        "genre_ids": [
+            12,
+            16,
+            35,
+            10751
+        ],
+        "poster_path": "/njbTizADSZg4PqeyJdDzZGooikv.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "Fantastic Mr. Fox",
+        "original_title": "Fantastic Mr. Fox",
+        "release_date": "2009-10-23",
         "adult": false
     },
     {
@@ -7706,6 +8160,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Hunchback of Notre Dame",
         "original_title": "The Hunchback of Notre Dame",
         "release_date": "1996-06-21",
@@ -7724,27 +8179,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Batman & Robin",
         "original_title": "Batman & Robin",
         "release_date": "1997-06-20",
-        "adult": false
-    },
-    {
-        "id": 10315,
-        "overview": "The Fantastic Mr. Fox bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
-        "genre_ids": [
-            12,
-            16,
-            35,
-            10751
-        ],
-        "poster_path": "/njbTizADSZg4PqeyJdDzZGooikv.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "Fantastic Mr. Fox",
-        "original_title": "Fantastic Mr. Fox",
-        "release_date": "2009-10-23",
         "adult": false
     },
     {
@@ -7759,6 +8197,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Mule",
         "original_title": "The Mule",
         "release_date": "2018-12-14",
@@ -7776,6 +8215,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "The Princess Diaries",
         "original_title": "The Princess Diaries",
         "release_date": "2001-08-03",
@@ -7788,10 +8228,11 @@
             16,
             10751
         ],
-        "poster_path": "/xElwvLH9stNdduVnx9hx5UqEUwv.jpg",
+        "poster_path": "/hKDdllslMtsU9JixAv5HR9biXlp.jpg",
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Dumbo",
         "original_title": "Dumbo",
         "release_date": "1941-10-31",
@@ -7809,6 +8250,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "The Expendables 3",
         "original_title": "The Expendables 3",
         "release_date": "2014-08-07",
@@ -7827,6 +8269,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Lego Batman Movie",
         "original_title": "The Lego Batman Movie",
         "release_date": "2017-02-08",
@@ -7844,26 +8287,10 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "The Town",
         "original_title": "The Town",
         "release_date": "2010-09-15",
-        "adult": false
-    },
-    {
-        "id": 22803,
-        "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
-        "genre_ids": [
-            18,
-            80,
-            53
-        ],
-        "poster_path": "/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
-        "provider_ids": [
-            384
-        ],
-        "title": "Law Abiding Citizen",
-        "original_title": "Law Abiding Citizen",
-        "release_date": "2009-10-15",
         "adult": false
     },
     {
@@ -7878,9 +8305,28 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Jurassic World Dominion",
         "original_title": "Jurassic World Dominion",
         "release_date": "2022-06-01",
+        "adult": false
+    },
+    {
+        "id": 22803,
+        "overview": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+        "genre_ids": [
+            18,
+            80,
+            53
+        ],
+        "poster_path": "/fcEXcip7v0O1ndV4VUdFqJSqbOg.jpg",
+        "provider_ids": [
+            384
+        ],
+        "media_type": "movie",
+        "title": "Law Abiding Citizen",
+        "original_title": "Law Abiding Citizen",
+        "release_date": "2009-10-15",
         "adult": false
     },
     {
@@ -7895,6 +8341,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The Mist",
         "original_title": "The Mist",
         "release_date": "2007-11-21",
@@ -7911,6 +8358,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Uncharted",
         "original_title": "Uncharted",
         "release_date": "2022-02-10",
@@ -7929,6 +8377,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Bee Movie",
         "original_title": "Bee Movie",
         "release_date": "2007-11-02",
@@ -7946,6 +8395,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Meet Joe Black",
         "original_title": "Meet Joe Black",
         "release_date": "1998-11-12",
@@ -7963,6 +8413,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "War Dogs",
         "original_title": "War Dogs",
         "release_date": "2016-08-17",
@@ -7980,6 +8431,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Wrath of Man",
         "original_title": "Wrath of Man",
         "release_date": "2021-04-22",
@@ -7996,6 +8448,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "London Has Fallen",
         "original_title": "London Has Fallen",
         "release_date": "2016-03-02",
@@ -8016,6 +8469,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "High School Musical",
         "original_title": "High School Musical",
         "release_date": "2006-01-20",
@@ -8034,6 +8488,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "I Am Number Four",
         "original_title": "I Am Number Four",
         "release_date": "2011-02-18",
@@ -8051,6 +8506,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "The Mortal Instruments: City of Bones",
         "original_title": "The Mortal Instruments: City of Bones",
         "release_date": "2013-08-21",
@@ -8068,6 +8524,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Geostorm",
         "original_title": "Geostorm",
         "release_date": "2017-10-13",
@@ -8085,26 +8542,10 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Isle of Dogs",
         "original_title": "Isle of Dogs",
         "release_date": "2018-03-23",
-        "adult": false
-    },
-    {
-        "id": 433,
-        "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
-        "genre_ids": [
-            35,
-            10751,
-            14
-        ],
-        "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
-        "provider_ids": [
-            337
-        ],
-        "title": "Mary Poppins",
-        "original_title": "Mary Poppins",
-        "release_date": "1964-12-17",
         "adult": false
     },
     {
@@ -8120,9 +8561,28 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "El Camino: A Breaking Bad Movie",
         "original_title": "El Camino: A Breaking Bad Movie",
         "release_date": "2019-10-11",
+        "adult": false
+    },
+    {
+        "id": 433,
+        "overview": "Mr Banks is looking for a nanny for his two mischievous children and comes across Mary Poppins, an angelic nanny. She not only brings a change in their lives but also spreads happiness.",
+        "genre_ids": [
+            35,
+            10751,
+            14
+        ],
+        "poster_path": "/ei8hhYCMfURfPOXKBnyl61be2iV.jpg",
+        "provider_ids": [
+            337
+        ],
+        "media_type": "movie",
+        "title": "Mary Poppins",
+        "original_title": "Mary Poppins",
+        "release_date": "1964-12-17",
         "adult": false
     },
     {
@@ -8136,6 +8596,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Marley & Me",
         "original_title": "Marley & Me",
         "release_date": "2008-12-25",
@@ -8154,6 +8615,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Atlantis: The Lost Empire",
         "original_title": "Atlantis: The Lost Empire",
         "release_date": "2001-06-02",
@@ -8170,6 +8632,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Hush",
         "original_title": "Hush",
         "release_date": "2016-03-12",
@@ -8187,6 +8650,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "Bridge to Terabithia",
         "original_title": "Bridge to Terabithia",
         "release_date": "2007-02-15",
@@ -8203,6 +8667,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "The DUFF",
         "original_title": "The DUFF",
         "release_date": "2015-02-20",
@@ -8221,6 +8686,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "G.I. Joe: The Rise of Cobra",
         "original_title": "G.I. Joe: The Rise of Cobra",
         "release_date": "2009-08-03",
@@ -8237,6 +8703,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "21",
         "original_title": "21",
         "release_date": "2008-03-27",
@@ -8254,6 +8721,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "6 Underground",
         "original_title": "6 Underground",
         "release_date": "2019-12-13",
@@ -8269,6 +8737,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Miracle in Cell No. 7",
         "original_title": "La Cellule Num\u00e9ro 7",
         "release_date": "2019-10-10",
@@ -8286,6 +8755,7 @@
         "provider_ids": [
             9
         ],
+        "media_type": "movie",
         "title": "Dilwale Dulhania Le Jayenge",
         "original_title": "\u0926\u093f\u0932\u0935\u093e\u0932\u0947 \u0926\u0941\u0932\u094d\u0939\u0928\u093f\u092f\u093e \u0932\u0947 \u091c\u093e\u092f\u0947\u0902\u0917\u0947",
         "release_date": "1995-10-19",
@@ -8304,6 +8774,7 @@
         "provider_ids": [
             8
         ],
+        "media_type": "movie",
         "title": "Monsters vs Aliens",
         "original_title": "Monsters vs Aliens",
         "release_date": "2009-03-19",
@@ -8322,6 +8793,7 @@
         "provider_ids": [
             337
         ],
+        "media_type": "movie",
         "title": "A Christmas Carol",
         "original_title": "A Christmas Carol",
         "release_date": "2009-11-04",
@@ -8338,6 +8810,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Burn After Reading",
         "original_title": "Burn After Reading",
         "release_date": "2008-09-05",
@@ -8355,6 +8828,7 @@
         "provider_ids": [
             384
         ],
+        "media_type": "movie",
         "title": "Lord of War",
         "original_title": "Lord of War",
         "release_date": "2005-09-16",
@@ -8372,6 +8846,7 @@
         "provider_ids": [
             15
         ],
+        "media_type": "movie",
         "title": "Insomnia",
         "original_title": "Insomnia",
         "release_date": "2002-05-24",
