@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "film-track",
+  "private_key_id": "05276ec63da6e4f22af24cb3d1ce7e26d8423226",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8v3jTAo5V8x7P\n8RlMS1MUQWald8Vkf+zUD9uC8AoJQx3WYjDAD/KFhMgR4K34oQNTzqOnpX+9lAhu\n1aOjhRR5DBX5sgzwSi/XBCuw+7zXxkIJc/Ot/K2Ar5TOKPzReqP2W6VvGZWmIi28\noG+ZD/xNSAQtmDAxZhpAfOwf1YIR9a2g+BVQIGT/CDSzv/BlvbrRJzkBMvl+SGwt\nJzwbfq5879DqLAZ/hIxDHxoUDF3/iWh6sz6jnjMLszOQaFBf3rLau6yYPHFm6byH\n4bxoihBOcJ5AjT5/V9fUKrNzNDwLIh+Es7sX9VHTvFrUWTgsD0ed0eSLsFKUTZfs\nFxyhKuytAgMBAAECggEAOzgP3pSEt+7JkhBhEZDohghm/i9v3TJNydMX2iMZ4wIN\n0H+KMBhQzRd19jX6H3HVK2w/6I+CXqadZrjc2KceX0QteOQmLxX3oIyMcMDq5QAt\nI+4fXE1U2nU8SNqPR+Iko1zpsMvkKfW7R91GZk2fqVeZB/0h0b3pKqaHJw3D+4IB\nUOcvzOA4REL9KRBZPHsJD0aNk1dtX6J3TFrlSAjjfmzCiMQHj9xDSOPMP84mP7RY\ntAxYQKsoVm9hqFnHTpaOgh/m1E81DUY3G/bcpMKka/c2MlfSbPBHtpxAoQ3xoUvo\nSwQorYbwLpcyCALRK8iR3RMjc/zmKnzMbjE8CCjgeQKBgQDnxDJmYFJ+HW3wTwWl\nhlfTNsjAyrJk5UPs/BoHCLFy6pYaXv2gVaFXyby8OPbcyc2n5zIt2IzLUYZmP8Xr\njhDilLi5Bkj6qubZeZxeCg1pqZ+Kts1w3slrFJj7Sr5XhwM9nlHQpGH0jKAE+6Pb\n2uhF2oiWNPqg3eMkBgvxEc+KXwKBgQDQe8d+CCGzuuRT7ju4ctRRgAeB02L3ELC+\n2fkK59i3tU6rl+xVoZXgEpty5sg9COFr3EZScVWrVi3L/6QEQGmtAZSU2MRcQmhG\ntFs5OPiXBhTz2HV3XPF4VzzE3acjDNqcZEXVBCbNfAG1jFqCdO/06zBmLd5t3eus\ngnJUTe68cwKBgGafll2EiyJyr4p3wx1PBjZtDKlpV2Kbrd8Spge1TrV+sCZPJ2jG\nYeG4X0zMwGp1JQ4SrkJkn7srhyJhXKb3yfw6NC0hXlE4OW3UjmuJcfT2ecF3PjKb\nQ36ZqT+kEfI5wzKWls2W7BTX68cpEZ45KR49LLuuC8gNWBVMZB9Dbq1rAoGAR6l0\nbhbfdscT+uGVt5YI8ya97ds6VlBvYHrORvhgnuz8aLEk9F5BhS8ALeO0Cn7F9WxW\n47m/R9Csl0V9HFUDvgsgBnXoMQpGi58tCCNUF51okFTkM65H9iSOZ+EEtWCSuFUj\nR9BQgitQ7xWaeuM1JAu/rC+yGDPC8Z45LE9Jc48CgYBE8dQ+gfxDZNqh0+DZ1N6a\nLh6v4LU1EssdE96Z5WptQzYAuVUD43ftsIEj9cjhwKoTvva1MGom5UGUThVl6nXQ\nPXkx0efPx4ayQ7eVIinI0bAETexUZHFTKCgTmXwiAYtPHTBsQ6qqCgOBZ3iTiyCR\nO5r4OXevtWeQ8iupp8g5EQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qu5h3@film-track.iam.gserviceaccount.com",
+  "client_id": "114639006942101733658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qu5h3%40film-track.iam.gserviceaccount.com"
+}
