@@ -28,10 +28,7 @@ for page in range(1,251):
             'original_title': media['original_name'],
             'release_date': first_air_date,
             'provider_ids': [],
-            'top_cast': [],
-            'top_directing': [],
-            'top_production': [],
-            'top_writing': []
+            'credits': []
         })
 
 with open(f'./data/shows.json', 'w') as jsonf:

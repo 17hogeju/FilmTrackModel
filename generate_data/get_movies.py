@@ -23,10 +23,7 @@ for page in range(1, 251):
             'original_title': media['original_title'],
             'release_date': media['release_date'],
             'provider_ids': [],
-            'top_cast': [],
-            'top_directing': [],
-            'top_production': [],
-            'top_writing': []
+            'credits': []
         })
 with open(f'./data/movies.json', 'w') as jsonf:
     json.dump(res, jsonf)

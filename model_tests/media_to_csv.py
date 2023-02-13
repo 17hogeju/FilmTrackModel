@@ -11,28 +11,18 @@ with open('../generate_data/data/media.json') as json_file:
 data_file = open('media_test.csv', 'w')
  
 # create the csv writer object
-csv_writer = csv.writer(data_file, quotechar='"', quoting=csv.QUOTE_ALL)
+csv_writer = csv.writer(data_file, quoting=csv.QUOTE_NONE, delimiter='|',escapechar='\\')
 
-csv_writer.writerow(['id', 'overview', 'genre_ids', 'poster_path', 'provider_ids', 'media_type', 'title', 'original_title', 'release_date', 'top_cast', 'credits'])
+csv_writer.writerow(['id', 'overview', 'genre_ids', 'media_type', 'title', 'credits'])
  
 for media_item in data:
-    media_item["id"] = str(media_item["id"])
-    media_item["overview"] = media_item["overview"].replace('"', "'")
-    media_item["genre_ids"] = ' '.join(str(i) for i in media_item["genre_ids"])
-    media_item["provider_ids"] = ' '.join(str(i) for i in media_item["provider_ids"])
-    media_item["top_cast"] = ' '.join(str(i) for i in media_item["top_cast"])
-    
-    directors = ' '.join(str(i) for i in media_item["directors"])
-    writers = ' '.join(str(i) for i in media_item["writers"])
-    producers = ' '.join(str(i) for i in media_item["producers"])
-    exec_producers = ' '.join(str(i) for i in media_item["exec_producers"])
-    credits = [directors, writers, producers, exec_producers]
-    media_item["credits"] = ' '.join(i for i in credits if i)
-    del media_item["directors"]
-    del media_item["writers"]
-    del media_item["producers"]
-    del media_item["exec_producers"]
-    csv_writer.writerow(media_item.values())
+    temp_row = []
+    temp_row.append(media_item["id"])
+    temp_row.append(media_item["overview"])
+    temp_row.append(' '.join(str(i) for i in media_item["genre_ids"]))
+    temp_row.append(media_item['media_type'])
+    temp_row.append(media_item['title'])
+    temp_row.append(' '.join(str(i) for i in media_item["credits"]))
+    csv_writer.writerow(temp_row)
  
 data_file.close()
-
