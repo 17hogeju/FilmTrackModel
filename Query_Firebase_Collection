@@ -1,0 +1,27 @@
+//Sample Data
+import { collection, doc, setDoc } from "firebase/firestore"; 
+
+const media = collection(db, "cities");
+
+await setDoc(doc(media, original_title), {
+    name: original_title,
+    contents: ["original_title"] });
+    
+// Create a reference to the media
+import { collection, query, where } from "firebase/firestore";
+const name = collection(db, "origional_title");
+
+// Create a query against the collection.
+const q1 = query(media, where("name", "==", "origion_title"));
+
+
+//Query Execution
+import { collection, query, where, getDocs } from "firebase/firestore";
+
+const q = query(collection(db, "media"), where("name", "==", origional_title));
+
+const querySnapshot = await getDocs(q1);
+querySnapshot.forEach((doc) => {
+  // doc.data() is never undefined for query doc snapshots
+  console.log(doc.id, " => ", doc.data());
+});
