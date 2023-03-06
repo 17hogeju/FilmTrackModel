@@ -16,7 +16,7 @@ split_data = np.array_split(temp_data, 100)
 
 for index, data in enumerate(split_data):
     for media in data:
-        response = requests.get(f'https://api.themoviedb.org/3/movie/{media["id"]}/watch/providers?api_key={api_key}')
+        response = requests.get(f'https://api.themoviedb.org/3/{media["media_type"]}/{media["id"]}/watch/providers?api_key={api_key}')
         providers = response.json()
         try:
             providers_media = providers['results'][region]['flatrate']
