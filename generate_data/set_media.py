@@ -7,8 +7,9 @@ import numpy as np
 cred = credentials.Certificate('../firebase_credentials.json')
 app = firebase_admin.initialize_app(cred)
 db = firestore.client()
+data_file = 'data_3-19'
 
-with open('./data/media.json') as js:
+with open(f'./{data_file}/media.json') as js:
     temp_data = json.load(js)
 
 split_data = np.array_split(temp_data, 100)

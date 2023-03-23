@@ -6,6 +6,7 @@ import json
 
 api_key = config.tmdb_api_key # get TMDB API key from config.py file
 language = 'en-US'
+data_file = 'data_3-19'
 
 # Get popular movies from The Movie DB that use our providers
 res = []
@@ -14,16 +15,18 @@ for page in range(1, 251):
     popular = response_0.json()
     for media in popular['results']:
         res.append({
-            'id': media['id'],
-            'overview': media['overview'],
+            'credits': "",
+            'genres': "",
             'genre_ids': media['genre_ids'],
-            'poster_path': media['poster_path'],
+            'id': media['id'],
             'media_type': 'movie',
-            'title': media['title'],
             'original_title': media['original_title'],
+            'overview': media['overview'],
+            'poster_path': media['poster_path'],
+            'provider_ids': "",
             'release_date': media['release_date'],
-            'provider_ids': [],
-            'credits': []
+            'title': media['title'],
+            'title_lowercase': media['title'].lower()
         })
-with open(f'./data/movies.json', 'w') as jsonf:
+with open(f'./{data_file}/movies.json', 'w') as jsonf:
     json.dump(res, jsonf)

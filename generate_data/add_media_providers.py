@@ -8,8 +8,9 @@ import numpy as np
 api_key = config.tmdb_api_key # get TMDB API key from config.py file
 language = 'en-US'
 region = 'US'
+data_file = 'data_3-19'
 
-with open('./data/media_temp.json') as js:
+with open(f'./{data_file}/media_full_genres_credits.json') as js:
     temp_data = json.load(js)
 
 split_data = np.array_split(temp_data, 100)
@@ -20,11 +21,15 @@ for index, data in enumerate(split_data):
         providers = response.json()
         try:
             providers_media = providers['results'][region]['flatrate']
-            ids = [p['provider_id'] for p in providers_media]
-            media['provider_ids'] = ids
+            media['provider_ids'] = " ".join(str(x['provider_id']) for x in providers_media)
+            media['provider_names'] = ", ".join(x['provider_name'] for x in providers_media)
         except:
             continue
-    print(f'Completed Split: {index}')
+        # print(media)
+        # break
 
-with open('./data/media_temp_2.json', 'w') as f:
+    print(f'Completed Split: {index}')
+    # break
+
+with open(f'./{data_file}/media_full_genres_credits_providers.json', 'w') as f:
     json.dump(temp_data, f)
