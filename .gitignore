@@ -4,3 +4,4 @@ generate_data/config.py
 firebase_credentials.json
 **/.ipynb_checkpoints/
 **/__pycache__/
+model_tests/models/
