@@ -1,16 +1,18 @@
 import requests
 import json
 
-url = 'https://shan.loca.lt'
+url = 'https://filmtrack.loca.lt'
+
+# local tunnel: lt --port 8000 --subdomain filmtrack --local-host "127.0.0.1" -o --print-requests
 
 
 movie_indeces = [245891, 109445, 62177, 3170, 808]
 past_recs = []
 
 data = {
-    "media_type": "movie",
-    "data": movie_indeces, 
-    "past_recs": past_recs
+    'media_type': 'movie',
+    'data': movie_indeces, 
+    'past_recs': past_recs
     }
 jsond = json.dumps(data)
 
