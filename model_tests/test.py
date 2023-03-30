@@ -3,7 +3,7 @@ import json
 
 url = 'https://filmtrack.loca.lt'
 
-# local tunnel: lt --port 8000 --subdomain filmtrack --local-host "127.0.0.1" -o --print-requests
+# local tunnel: lt --port 8000 --subdomain filmtrack --local-host "127.0.0.1" --print-requests
 
 
 movie_indeces = [808, 245891, 49026, 913290, 607, 27205]
